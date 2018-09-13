@@ -10,5 +10,5 @@ with open('inspired_linked_fi_codes.csv', 'r', encoding='utf-8-sig') as csvfile:
 with open('inspired_mcc_codes.csv', 'r', encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
     out = json.dumps([ row for row in reader ], indent=4)
-    with open('mcc_codes.json', 'w') as jsonfile:
+    with open('inspired_mcc_codes.json', 'w') as jsonfile:
         jsonfile.write(out)

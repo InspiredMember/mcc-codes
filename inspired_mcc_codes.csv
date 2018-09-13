@@ -1,980 +1,984 @@
 ﻿mcc,edited_description,irs_description,linked_fi_category,plaid_description
-0742,Veterinary Services,Veterinary Services,18069000,Service:Veterinarians
-0763,Agricultural Co-operatives,Agricultural Cooperative,18073004,Service:Agriculture and Forestry:Services
-0780,"Horticultural Services, Landscaping Services",Landscaping Services,18024013,Service:Home Improvement:Landscaping and Gardeners
-1520,General Contractors-Residential and Commercial,General Contractors,18013008,Service:Construction:Contractors
-1711,"Air Conditioning Contractors - Sales and Installation, Heating Contractors - Sales, Service, Installation","Heating, Plumbing, A/C",18068003,"Service:Utilities:Heating, Ventilating, and Air Conditioning"
-1731,Electrical Contractors,Electrical Contractors,18013007,Service:Construction:Electricians
-1740,"Insulation - Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors","Masonry, Stonework, and Plaster",18013004,Service:Construction:Masonry
-1750,Carpentry Contractors,Carpentry Contractors,18013010,Service:Construction:Carpenters
-1761,"Roofing - Contractors, Sheet Metal Work - Contractors, Siding - Contractors","Roofing/Siding, Sheet Metal",18013002,Service:Construction:Roofers
-1771,Contractors - Concrete Work,Concrete Work Contractors,18013001,Service:Construction:Specialty
-1799,"Contractors - Special Trade, Not Elsewhere Classified",Special Trade Contractors,18013008,Service:Construction:Contractors
-2741,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,18008001,Service:Business Services:Printing and Publishing
-2791,"Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, and Related Services",18008001,Service:Business Services:Printing and Publishing
-2842,"Specialty Cleaning, Polishing, and Sanitation Preparations",Specialty Cleaning,18068002,Service:Utilities:Sanitary and Waste Management
-3000,UNITED AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3001,AMERICAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3002,PAN AMERICAN,Airlines,22001000,Travel:Airlines and Aviation Services
-3003,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3004,TRANS WORLD AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3005,BRITISH AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3006,JAPAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3007,AIR FRANCE,Airlines,22001000,Travel:Airlines and Aviation Services
-3008,LUFTHANSA,Airlines,22001000,Travel:Airlines and Aviation Services
-3009,AIR CANADA,Airlines,22001000,Travel:Airlines and Aviation Services
-3010,KLM (ROYAL DUTCH AIRLINES),Airlines,22001000,Travel:Airlines and Aviation Services
-3011,AEORFLOT,Airlines,22001000,Travel:Airlines and Aviation Services
-3012,QUANTAS,Airlines,22001000,Travel:Airlines and Aviation Services
-3013,ALITALIA,Airlines,22001000,Travel:Airlines and Aviation Services
-3014,SAUDIA ARABIAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3015,SWISSAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3016,SAS,Airlines,22001000,Travel:Airlines and Aviation Services
-3017,SOUTH AFRICAN AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3018,VARIG (BRAZIL),Airlines,22001000,Travel:Airlines and Aviation Services
-3019,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3020,AIR-INDIA,Airlines,22001000,Travel:Airlines and Aviation Services
-3021,AIR ALGERIE,Airlines,22001000,Travel:Airlines and Aviation Services
-3022,PHILIPPINE AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3023,MEXICANA,Airlines,22001000,Travel:Airlines and Aviation Services
-3024,PAKISTAN INTERNATIONAL,Airlines,22001000,Travel:Airlines and Aviation Services
-3025,AIR NEW ZEALAND,Airlines,22001000,Travel:Airlines and Aviation Services
-3026,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3027,UTA/INTERAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3028,AIR MALTA,Airlines,22001000,Travel:Airlines and Aviation Services
-3029,SABENA,Airlines,22001000,Travel:Airlines and Aviation Services
-3030,AEROLINEAS ARGENTINAS,Airlines,22001000,Travel:Airlines and Aviation Services
-3031,OLYMPIC AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3032,EL AL,Airlines,22001000,Travel:Airlines and Aviation Services
-3033,ANSETT AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3034,AUSTRAINLIAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3035,TAP (PORTUGAL),Airlines,22001000,Travel:Airlines and Aviation Services
-3036,VASP (BRAZIL),Airlines,22001000,Travel:Airlines and Aviation Services
-3037,EGYPTAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3038,KUWAIT AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3039,AVIANCA,Airlines,22001000,Travel:Airlines and Aviation Services
-3040,GULF AIR (BAHRAIN),Airlines,22001000,Travel:Airlines and Aviation Services
-3041,BALKAN-BULGARIAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3042,FINNAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3043,AER LINGUS,Airlines,22001000,Travel:Airlines and Aviation Services
-3044,AIR LANKA,Airlines,22001000,Travel:Airlines and Aviation Services
-3045,NIGERIA AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3046,CRUZEIRO DO SUL (BRAZIJ),Airlines,22001000,Travel:Airlines and Aviation Services
-3047,THY (TURKEY),Airlines,22001000,Travel:Airlines and Aviation Services
-3048,ROYAL AIR MAROC,Airlines,22001000,Travel:Airlines and Aviation Services
-3049,TUNIS AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3050,ICELANDAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3051,AUSTRIAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3052,LANCHILE,Airlines,22001000,Travel:Airlines and Aviation Services
-3053,AVIACO (SPAIN),Airlines,22001000,Travel:Airlines and Aviation Services
-3054,LADECO (CHILE),Airlines,22001000,Travel:Airlines and Aviation Services
-3055,LAB (BOLIVIA),Airlines,22001000,Travel:Airlines and Aviation Services
-3056,QUEBECAIRE,Airlines,22001000,Travel:Airlines and Aviation Services
-3057,EASTWEST AIRLINES (AUSTRALIA),Airlines,22001000,Travel:Airlines and Aviation Services
-3058,DELTA,Airlines,22001000,Travel:Airlines and Aviation Services
-3059,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3060,NORTHWEST,Airlines,22001000,Travel:Airlines and Aviation Services
-3061,CONTINENTAL,Airlines,22001000,Travel:Airlines and Aviation Services
-3062,WESTERN,Airlines,22001000,Travel:Airlines and Aviation Services
-3063,US AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3064,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3065,AIRINTER,Airlines,22001000,Travel:Airlines and Aviation Services
-3066,SOUTHWEST,Airlines,22001000,Travel:Airlines and Aviation Services
-3067,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3068,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3069,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3070,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3071,AIR BRITISH COLUBIA,Airlines,22001000,Travel:Airlines and Aviation Services
-3072,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3073,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3074,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3075,SINGAPORE AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3076,AEROMEXICO,Airlines,22001000,Travel:Airlines and Aviation Services
-3077,THAI AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3078,CHINA AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3079,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3080,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3081,NORDAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3082,KOREAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3083,AIR AFRIGUE,Airlines,22001000,Travel:Airlines and Aviation Services
-3084,EVA AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3085,"MIDWEST EXPRESS AIRLINES, INC.",Airlines,22001000,Travel:Airlines and Aviation Services
-3086,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3087,METRO AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3088,CROATIA AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3089,TRANSAERO,Airlines,22001000,Travel:Airlines and Aviation Services
-3090,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3091,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3092,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3093,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3094,ZAMBIA AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3095,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3096,AIR ZIMBABWE,Airlines,22001000,Travel:Airlines and Aviation Services
-3097,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3098,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3099,CATHAY PACIFIC,Airlines,22001000,Travel:Airlines and Aviation Services
-3100,MALAYSIAN AIRLINE SYSTEM,Airlines,22001000,Travel:Airlines and Aviation Services
-3101,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3102,IBERIA,Airlines,22001000,Travel:Airlines and Aviation Services
-3103,GARUDA (INDONESIA),Airlines,22001000,Travel:Airlines and Aviation Services
-3104,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3105,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3106,BRAATHENS S.A.F.E. (NORWAY),Airlines,22001000,Travel:Airlines and Aviation Services
-3107,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3108,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3109,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3110,WINGS AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3111,BRITISH MIDLAND,Airlines,22001000,Travel:Airlines and Aviation Services
-3112,WINDWARD ISLAND,Airlines,22001000,Travel:Airlines and Aviation Services
-3113,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3114,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3115,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3116,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3117,VIASA,Airlines,22001000,Travel:Airlines and Aviation Services
-3118,VALLEY AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3119,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3120,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3121,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3122,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3123,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3124,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3125,TAN,Airlines,22001000,Travel:Airlines and Aviation Services
-3126,TALAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3127,TACA INTERNATIONAL,Airlines,22001000,Travel:Airlines and Aviation Services
-3128,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3129,SURINAM AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3130,SUN WORLD INTERNATIONAL,Airlines,22001000,Travel:Airlines and Aviation Services
-3131,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3132,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3133,SUNBELT AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3134,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3135,SUDAN AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3136,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3137,SINGLETON,Airlines,22001000,Travel:Airlines and Aviation Services
-3138,SIMMONS AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3139,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3140,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3141,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3142,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3143,SCENIC AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3144,VIRGIN ATLANTIC,Airlines,22001000,Travel:Airlines and Aviation Services
-3145,SAN JUAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3146,LUXAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3147,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3148,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3149,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3150,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3151,AIR ZAIRE,Airlines,22001000,Travel:Airlines and Aviation Services
-3152,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3153,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3154,PRINCEVILLE,Airlines,22001000,Travel:Airlines and Aviation Services
-3155,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3156,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3157,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3158,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3159,PBA,Airlines,22001000,Travel:Airlines and Aviation Services
-3160,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3161,ALL NIPPON AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3162,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3163,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3164,NORONTAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3165,NEW YORK HELICOPTER,Airlines,22001000,Travel:Airlines and Aviation Services
-3166,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3167,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3168,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3169,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3170,NOUNT COOK,Airlines,22001000,Travel:Airlines and Aviation Services
-3171,CANADIAN AIRLINES INTERNATIONAL,Airlines,22001000,Travel:Airlines and Aviation Services
-3172,NATIONAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3173,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3174,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3175,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3176,METROFLIGHT AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3177,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3178,MESA AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3179,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3180,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3181,MALEV,Airlines,22001000,Travel:Airlines and Aviation Services
-3182,LOT (POLAND),Airlines,22001000,Travel:Airlines and Aviation Services
-3183,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3184,LIAT,Airlines,22001000,Travel:Airlines and Aviation Services
-3185,LAV (VENEZUELA),Airlines,22001000,Travel:Airlines and Aviation Services
-3186,LAP (PARAGUAY),Airlines,22001000,Travel:Airlines and Aviation Services
-3187,LACSA (COSTA RICA),Airlines,22001000,Travel:Airlines and Aviation Services
-3188,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3189,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3190,JUGOSLAV AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3191,ISLAND AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3192,IRAN AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3193,INDIAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3194,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3195,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3196,HAWAIIAN AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3197,HAVASU AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3198,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3199,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3200,FUYANA AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3201,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3202,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3203,GOLDEN PACIFIC AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3204,FREEDOM AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3205,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3206,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3207,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3208,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3209,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3210,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3211,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3212,DOMINICANA,Airlines,22001000,Travel:Airlines and Aviation Services
-3213,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3214,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3215,DAN AIR SERVICES,Airlines,22001000,Travel:Airlines and Aviation Services
-3216,CUMBERLAND AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3217,CSA,Airlines,22001000,Travel:Airlines and Aviation Services
-3218,CROWN AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3219,COPA,Airlines,22001000,Travel:Airlines and Aviation Services
-3220,COMPANIA FAUCETT,Airlines,22001000,Travel:Airlines and Aviation Services
-3221,TRANSPORTES AEROS MILITARES ECCUATORANOS,Airlines,22001000,Travel:Airlines and Aviation Services
-3222,COMMAND AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3223,COMAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3224,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3225,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3226,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3227,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3228,CAYMAN AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3229,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,Airlines,22001000,Travel:Airlines and Aviation Services
-3230,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3231,SASHA SERVICIO AERO DE HONDURAS,Airlines,22001000,Travel:Airlines and Aviation Services
-3232,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3233,CAPITOL AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3234,BWIA,Airlines,22001000,Travel:Airlines and Aviation Services
-3235,BROKWAY AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3236,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3237,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3238,BEMIDJI AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3239,BAR HARBOR AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3240,BAHAMASAIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3241,AVIATECA (GUATEMALA),Airlines,22001000,Travel:Airlines and Aviation Services
-3242,AVENSA,Airlines,22001000,Travel:Airlines and Aviation Services
-3243,AUSTRIAN AIR SERVICE,Airlines,22001000,Travel:Airlines and Aviation Services
-3244,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3245,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3246,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3247,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3248,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3249,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3250,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3251,ALOHA AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3252,ALM,Airlines,22001000,Travel:Airlines and Aviation Services
-3253,AMERICA WEST,Airlines,22001000,Travel:Airlines and Aviation Services
-3254,TRUMP AIRLINE,Airlines,22001000,Travel:Airlines and Aviation Services
-3255,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3256,ALASKA AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3257,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3258,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3259,AMERICAN TRANS AIR,Airlines,22001000,Travel:Airlines and Aviation Services
-3260,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3261,AIR CHINA,Airlines,22001000,Travel:Airlines and Aviation Services
-3262,"RENO AIR, INC.",Airlines,22001000,Travel:Airlines and Aviation Services
-3263,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3264,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3265,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3266,AIR SEYCHELLES,Airlines,22001000,Travel:Airlines and Aviation Services
-3267,AIR PANAMA,Airlines,22001000,Travel:Airlines and Aviation Services
-3268,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3269,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3270,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3271,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3272,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3273,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3274,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3275,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3276,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3277,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3278,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3279,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3280,AIR JAMAICA,Airlines,22001000,Travel:Airlines and Aviation Services
-3281,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3282,AIR DJIBOUTI,Airlines,22001000,Travel:Airlines and Aviation Services
-3283,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3284,AERO VIRGIN ISLANDS,Airlines,22001000,Travel:Airlines and Aviation Services
-3285,AERO PERU,Airlines,22001000,Travel:Airlines and Aviation Services
-3286,AEROLINEAS NICARAGUENSIS,Airlines,22001000,Travel:Airlines and Aviation Services
-3287,AERO COACH AVAIATION,Airlines,22001000,Travel:Airlines and Aviation Services
-3288,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3289,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3290,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3291,ARIANA AFGHAN,Airlines,22001000,Travel:Airlines and Aviation Services
-3292,CYPRUS AIRWAYS,Airlines,22001000,Travel:Airlines and Aviation Services
-3293,ECUATORIANA,Airlines,22001000,Travel:Airlines and Aviation Services
-3294,ETHIOPIAN AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3295,KENYA AIRLINES,Airlines,22001000,Travel:Airlines and Aviation Services
-3296,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3297,Airlines,Airlines,22001000,Travel:Airlines and Aviation Services
-3298,AIR MAURITIUS,Airlines,22001000,Travel:Airlines and Aviation Services
-3299,WIDERO'S FLYVESELSKAP,Airlines,22001000,Travel:Airlines and Aviation Services
-3351,AFFILIATED AUTO RENTAL,Car Rental,22005000,Travel:Car and Truck Rentals
-3352,AMERICAN INTL RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3353,BROOKS RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3354,ACTION AUTO RENTAL,Car Rental,22005000,Travel:Car and Truck Rentals
-3355,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3356,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3357,HERTZ RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3358,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3359,PAYLESS CAR RENTAL,Car Rental,22005000,Travel:Car and Truck Rentals
-3360,SNAPPY CAR RENTAL,Car Rental,22005000,Travel:Car and Truck Rentals
-3361,AIRWAYS RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3362,ALTRA AUTO RENTAL,Car Rental,22005000,Travel:Car and Truck Rentals
-3363,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3364,AGENCY RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3365,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3366,BUDGET RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3367,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3368,HOLIDAY RENT-A-WRECK,Car Rental,22005000,Travel:Car and Truck Rentals
-3369,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3370,RENT-A-WRECK,Car Rental,22005000,Travel:Car and Truck Rentals
-3371,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3372,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3373,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3374,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3375,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3376,AJAX RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3377,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3378,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3379,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3380,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3381,EUROP CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3382,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3383,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3384,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3385,TROPICAL RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3386,SHOWCASE RENTAL CARS,Car Rental,22005000,Travel:Car and Truck Rentals
-3387,ALAMO RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3388,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3389,AVIS RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3390,DOLLAR RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3391,EUROPE BY CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3392,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3393,NATIONAL CAR RENTAL,Car Rental,22005000,Travel:Car and Truck Rentals
-3394,KEMWELL GROUP RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3395,THRIFTY RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3396,TILDEN TENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3397,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3398,ECONO-CAR RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3399,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3400,AUTO HOST COST CAR RENTALS,Car Rental,22005000,Travel:Car and Truck Rentals
-3401,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3402,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3403,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3404,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3405,ENTERPRISE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3406,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3407,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3408,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3409,GENERAL RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3410,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3411,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3412,A-1 RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3413,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3414,GODFREY NATL RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3415,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3416,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3417,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3418,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3419,ALPHA RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3420,ANSA INTL RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3421,ALLSTAE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3422,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3423,AVCAR RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3424,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3425,AUTOMATE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3426,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3427,AVON RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3428,CAREY RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3429,INSURANCE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3430,MAJOR RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3431,REPLACEMENT RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3432,RESERVE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3433,UGLY DUCKLING RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3434,USA RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3435,VALUE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3436,AUTOHANSA RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3437,CITE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3438,INTERENT RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3439,MILLEVILLE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3440,VIA ROUTE RENT-A-CAR,Car Rental,22005000,Travel:Car and Truck Rentals
-3441,Car Rental,Car Rental,22005000,Travel:Car and Truck Rentals
-3501,"HOLIDAY INNS, HOLIDAY INN EXPRESS",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3502,BEST WESTERN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3503,SHERATON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3504,HILTON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3505,FORTE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3506,GOLDEN TULIP HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3507,FRIENDSHIP INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3508,"QUALITY INNS, QUALITY SUITES",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3509,MARRIOTT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3510,"DAYS INN, DAYSTOP",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3511,ARABELLA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3512,INTER-CONTINENTAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3513,WESTIN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3514,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3515,RODEWAY INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3516,LA QUINTA MOTOR INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3517,AMERICANA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3518,SOL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3519,PULLMAN INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3520,MERIDIEN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3521,CREST HOTELS (see FORTE HOTELS),Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3522,TOKYO HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3523,PENNSULA HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3524,WELCOMGROUP HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3525,DUNFEY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3526,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3527,DOWNTOWNER-PASSPORT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3528,"RED LION HOTELS, RED LION INNS",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3529,CP HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3530,"RENAISSANCE HOTELS, STOUFFER HOTELS",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3531,ASTIR HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3532,SUN ROUTE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3533,HOTEL IBIS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3534,SOUTHERN PACIFIC HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3535,HILTON INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3536,AMFAC HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3537,ANA HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3538,CONCORDE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3539,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3540,IBEROTEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3541,HOTEL OKURA,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3542,ROYAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3543,FOUR SEASONS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3544,CIGA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3545,SHANGRI-LA INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3546,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3547,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3548,HOTELES MELIA,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3549,AUBERGE DES GOVERNEURS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3550,REGAL 8 INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3551,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3552,COAST HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3553,PARK INNS INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3554,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3555,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3556,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3557,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3558,JOLLY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3559,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3560,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3561,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3562,COMFORT INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3563,JOURNEY'S END MOTLS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3564,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3565,RELAX INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3566,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3567,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3568,LADBROKE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3569,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3570,FORUM HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3571,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3572,MIYAKO HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3573,SANDMAN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3574,VENTURE INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3575,VAGABOND HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3576,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3577,MANDARIN ORIENTAL HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3578,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3579,HOTEL MERCURE,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3580,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3581,DELTA HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3582,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3583,SAS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3584,PRINCESS HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3585,HUNGAR HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3586,SOKOS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3587,DORAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3588,HELMSLEY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3589,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3590,FAIRMONT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3591,SONESTA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3592,OMNI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3593,CUNARD HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3594,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3595,HOSPITALITY INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3596,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3597,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3598,REGENT INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3599,PANNONIA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3600,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3601,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3602,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3603,NOAH'S HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3604,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3605,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3606,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3607,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3608,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3609,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3610,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3611,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3612,MOVENPICK HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3613,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3614,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3615,TRAVELODGE,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3616,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3617,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3618,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3619,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3620,TELFORD INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3621,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3622,MERLIN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3623,DORINT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3624,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3625,HOTLE UNIVERSALE,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3626,PRINCE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3627,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3628,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3629,DAN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3630,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3631,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3632,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3633,RANK HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3634,SWISSOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3635,RESO HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3636,SAROVA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3637,"RAMADA INNS, RAMADA LIMITED",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3638,"HO JO INN, HOWARD JOHNSON",Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3639,MOUNT CHARLOTTE THISTLE,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3640,HYATT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3641,SOFITEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3642,NOVOTEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3643,STEIGENBERGER HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3644,ECONO LODGES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3645,QUEENS MOAT HOUSES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3646,SWALLOW HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3647,HUSA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3648,DE VERE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3649,RADISSON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3650,RED ROOK INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3651,IMPERIAL LONDON HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3652,EMBASSY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3653,PENTA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3654,LOEWS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3655,SCANDIC HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3656,SARA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3657,OBEROI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3658,OTANI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3659,TAJ HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3660,KNIGHTS INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3661,METROPOLE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3662,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3663,HOTELES EL PRESIDENTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3664,FLAG INN,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3665,HAMPTON INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3666,STAKIS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3667,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3668,MARITIM HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3669,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3670,ARCARD HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3671,ARCTIA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3672,CAMPANIEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3673,IBUSZ HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3674,RANTASIPI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3675,INTERHOTEL CEDOK,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3676,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3677,CLIMAT DE FRANCE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3678,CUMULUS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3679,DANUBIUS HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3680,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3681,ADAMS MARK HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3682,ALLSTAR INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3683,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3684,BUDGET HOST INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3685,BUDGETEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3686,SUISSE CHALETS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3687,CLARION HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3688,COMPRI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3689,CONSORT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3690,COURTYARD BY MARRIOTT,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3691,DILLION INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3692,DOUBLETREE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3693,DRURY INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3694,ECONOMY INNS OF AMERICA,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3695,EMBASSY SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3696,EXEL INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3697,FARFIELD HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3698,HARLEY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3699,MIDWAY MOTOR LODGE,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3700,MOTEL 6,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3701,GUEST QUARTERS (Formally PICKETT SUITE HOTELS),Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3702,THE REGISTRY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3703,RESIDENCE INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3704,ROYCE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3705,SANDMAN INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3706,SHILO INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3707,SHONEY'S INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3708,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3709,SUPER8 MOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3710,THE RITZ CARLTON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3711,FLAG INNS (AUSRALIA),Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3712,GOLDEN CHAIN HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3713,QUALITY PACIFIC HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3714,FOUR SEASONS HOTEL (AUSTRALIA),Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3715,FARIFIELD INN,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3716,CARLTON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3717,CITY LODGE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3718,KAROS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3719,PROTEA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3720,SOUTHERN SUN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3721,HILTON CONRAD,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3722,WYNDHAM HOTEL AND RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3723,RICA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3724,INER NOR HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3725,SEAINES PLANATION,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3726,RIO SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3727,BROADMOOR HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3728,BALLY'S HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3729,JOHN ASCUAGA'S NUGGET,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3730,MGM GRAND HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3731,HARRAH'S HOTELS AND CASINOS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3732,OPRYLAND HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3733,BOCA RATON RESORT,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3734,HARVEY/BRISTOL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3735,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3736,COLORADO BELLE/EDGEWATER RESORT,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3737,RIVIERA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3738,TROPICANA RESORT AND CASINO,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3739,WOODSIDE HOTELS AND RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3740,TOWNPLACE SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3741,MILLENIUM BROADWAY HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3742,CLUB MED,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3743,BILTMORE HOTEL AND SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3744,CAREFREE RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3745,ST. REGIS HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3746,THE ELIOT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3747,CLUBCORP/CLUB RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3748,WELESLEY INNS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3749,THE BEVERLY HILLS HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3750,CROWNE PLAZA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3751,HOMEWOOD SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3752,PEABODY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3753,GREENBRIAH RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3754,AMELIA ISLAND PLANATION,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3755,THE HOMESTEAD,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3756,SOUTH SEAS RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3757,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3758,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3759,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3760,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3761,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3762,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3763,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3764,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3765,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3766,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3767,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3768,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3769,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3770,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3771,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3772,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3773,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3774,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3775,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3776,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3777,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3778,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3779,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3780,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3781,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3782,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3783,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3784,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3785,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3786,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3787,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3835,* MASTERS ECONOMY INNS,,22012003,Travel:Lodging:Hotels and Motels
-4011,Railroads,Railroads,22015000,Travel:Rail
-4111,"Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",22014000,Travel:Public Transportation Services
-4112,Passenger Railways,Passenger Railways,22015000,Travel:Rail
-4119,Ambulance Services,Ambulance Services,14001011,Healthcare:Healthcare Services:Emergency Services
-4121,Taxicabs and Limousines,Taxicabs/Limousines,22016000,Travel:Taxi
-4131,"Bus Lines, Including Charters, Tour Buses",Bus Lines,22004000,Travel:Bus Stations
-4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking - Local/Long Distance, Delivery Services - Local","Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services ",18066000,Service:Transportation
-4215,"Courier Services - Air or Ground, Freight forwarders",Courier Services ,18058000,Service:Shipping and Freight
-4225,"Public warehousing, Storage","Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage ",18060000,Service:Storage
-4411,Cruise and Steamship Lines,Cruise Lines,22008000,Travel:Cruises
-4457,Boat Rentals and Leases,Boat Rentals and Leases,17006000,Recreation:Boating
-4468,"Marinas, Marine Service, and Supplies","Marinas, Service and Supplies",17006000,Recreation:Boating
-4511,"Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers",22001000,Travel:Airlines and Aviation Services
-4582,"Airports, Airport Terminals, Flying Fields","Airports, Flying Fields",22002000,Travel:Airports
-4722,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",18067000,Service:Travel Agents and Tour Operators
-4723,Package Tour Operators (For use in Germany only),TUI Travel - Germany,18067000,Service:Travel Agents and Tour Operators
-4784,Toll and Bridge Fees,Tolls/Bridge Fees,22017000,Travel:Tolls and Fees
-4789,"Transportation Services, Not elsewhere classified)",Transportation Services (Not Elsewhere Classified),22014000,Travel:Public Transportation Services
-4812,Telecommunications Equipment including telephone sales,Telecommunication Equipment and Telephone Sales,18063000,Service:Telecommunication Services
-4814,"Fax services, Telecommunication Services",Telecommunication Services,18063000,Service:Telecommunication Services
-4815,VisaPhone,,18063000,Service:Telecommunication Services
-4816,Computer Network Services,Computer Network Services,18012000,Service:Computers
-4821,Telegraph services,Telegraph Services,18063000,Service:Telecommunication Services
-4829,Money Orders - Wire Transfer,"Wires, Money Orders",21011000,Transfer:Wire
-4899,Cable and other pay television (previously Cable Services),"Cable, Satellite, and Other Pay Television and Radio",18009000,Service:Cable
-4900,"Electric, Gas, Sanitary and Water Utilities",Utilities ,18068000,Service:Utilities
-5013,Motor vehicle supplies and new parts,Motor Vehicle Supplies and New Parts,19005006,Shops:Automotive:Car Parts and Accessories
-5021,Office and Commercial Furniture,Office and Commercial Furniture,19027000,Shops:Furniture and Home Decor
-5039,"Construction Materials, Not Elsewhere Classified",Construction Materials (Not Elsewhere Classified),19014000,Shops:Construction Supplies
-5044,"Office, Photographic, Photocopy, and Microfilm Equipment","Photographic, Photocopy, Microfilm Equipment, and Supplies",18037003,Service:Manufacturing:Computers and Office Machines
-5045,"Computers, Computer Peripheral Equipment, Software","Computers, Peripherals, and Software",18037003,Service:Manufacturing:Computers and Office Machines
-5046,"Commercial Equipment, Not Elsewhere Classified",Commercial Equipment (Not Elsewhere Classified),18037003,Service:Manufacturing:Computers and Office Machines
-5047,"Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",14001009,Healthcare:Healthcare Services:Medical Supplies and Labs
-5051,Metal Service Centers and Offices,Metal Service Centers,18037010,Service:Manufacturing:Metal Products
-5065,Electrical Parts and Equipment,Electrical Parts and Equipment,18037004,Service:Manufacturing:Electrical Equipment and Components
-5072,Hardware Equipment and Supplies,"Hardware, Equipment, and Supplies",18024020,Service:Home Improvement:Hardware and Services
-5074,Plumbing and Heating Equipment and Supplies,"Plumbing, Heating Equipment, and Supplies",18024007,Service:Home Improvement:Plumbing
-5085,"Industrial Supplies, Not Elsewhere Classified",Industrial Supplies (Not Elsewhere Classified),19032000,Shops:Industrial Supplies
-5094,"Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry",19033000,Shops:Jewelry and Watches
-5099,"Durable Goods, Not Elsewhere Classified",Durable Goods (Not Elsewhere Classified),18037000,Service:Manufacturing
-5111,"Stationery, Office Supplies, Printing, and Writing Paper","Stationary, Office Supplies, Printing and Writing Paper",19010000,Shops:Cards and Stationery
-5122,"Drugs, Drug Proprietors, and Druggist's Sundries","Drugs, Drug Proprietaries, and Druggist Sundries",19043000,Shops:Pharmacies
-5131,"Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods",18037000,Service:Manufacturing
-5137,Men's Women's and Children's Uniforms and Commercial Clothing,"Uniforms, Commercial Clothing",19012000,Shops:Clothing and Accessories
-5139,Commercial Footwear,Commercial Footwear,19012003,Shops:Clothing and Accessories:Shoe Store
-5169,"Chemicals and Allied Products, Not Elsewhere Classified",Chemicals and Allied Products (Not Elsewhere Classified),18037002,Service:Manufacturing:Chemicals and Gasses
-5172,Petroleum and Petroleum Products,Petroleum and Petroleum Products,18037013,Service:Manufacturing:Petroleum
-5192,"Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers",19038000,Shops:Newsstands
-5193,"Florists' Supplies, Nursery Stock and Flowers","Florists Supplies, Nursery Stock, and Flowers",19024000,Shops:Florists
-5198,"Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies",18013003,Service:Construction:Painting
-5199,"Non-durable Goods, Not Elsewhere Classified",Nondurable Goods (Not Elsewhere Classified),18037000,Service:Manufacturing
-5200,Home Supply Warehouse Stores,Home Supply Warehouse Stores,19030000,Shops:Hardware Store
-5211,Lumber and Building Materials Stores,"Lumber, Building Materials Stores",18024020,Service:Home Improvement:Hardware and Services
-5231,"Glass, Paint, and Wallpaper Stores","Glass, Paint, and Wallpaper Stores",18024009,Service:Home Improvement:Painting
-5251,Hardware Stores,Hardware Stores,19030000,Shops:Hardware Store
-5261,Nurseries - Lawn and Garden Supply Store,"Nurseries, Lawn and Garden Supply Stores",18024013,Service:Home Improvement:Landscaping and Gardeners
-5271,Mobile Home Dealers,Mobile Home Dealers,18024011,Service:Home Improvement:Mobile Homes
-5300,Wholesale Clubs,Wholesale Clubs,19051000,Shops:Warehouses and Wholesale Stores
-5309,Duty Free Store,Duty Free Stores,19020000,Shops:Discount Stores
-5310,Discount Stores,Discount Stores,19020000,Shops:Discount Stores
-5311,Department Stores,Department Stores,19018000,Shops:Department Stores
-5331,Variety Stores,Variety Stores,19015000,Shops:Convenience Stores
-5399,Misc. General Merchandise,Miscellaneous General Merchandise,19015000,Shops:Convenience Stores
-5411,"Grocery Stores, Supermarkets","Grocery Stores, Supermarkets",19047000,Shops:Supermarkets and Groceries
-5422,Meat Provisioners - Freezer and Locker,Freezer and Locker Meat Provisioners,19025001,Shops:Food and Beverage Store:Specialty
-5441,"Candy, Nut, and Confectionery Stores","Candy, Nut, and Confectionery Stores",19025001,Shops:Food and Beverage Store:Specialty
-5451,Dairy Products Stores,Dairy Products Stores,19025001,Shops:Food and Beverage Store:Specialty
-5462,Bakeries,Bakeries,19025001,Shops:Food and Beverage Store:Specialty
-5499,Misc. Food Stores - Convenience Stores and Specialty Markets,Miscellaneous Food Stores - Convenience Stores and Specialty Markets,19015000,Shops:Convenience Stores
-5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing ",19005007,Shops:Automotive:Car Dealers and Leasing
-5521,Automobile and Truck Dealers (Used Only),"Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing ",19005001,Shops:Automotive:Used Car Dealers
-5531,Automobile Supply Stores,Auto and Home Supply Stores,19005006,Shops:Automotive:Car Parts and Accessories
-5532,Automotive Tire Stores,Automotive Tire Stores,18006007,Service:Automotive:Auto Tires
-5533,"Automotive Parts, Accessories Stores",Automotive Parts and Accessories Stores,19005006,Shops:Automotive:Car Parts and Accessories
-5541,Service Stations ( with or without ancillary services),Service Stations ,22009000,Travel:Gas Stations
-5542,Automated Fuel Dispensers,Automated Fuel Dispensers,22009000,Travel:Gas Stations
-5551,Boat Dealers,Boat Dealers,19008000,Shops:Boat Dealers
-5561,"Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",19005004,"Shops:Automotive:Motorcycles, Mopeds and Scooters"
-5571,Motorcycle Dealers,Motorcycle Shops and Dealers,19005004,"Shops:Automotive:Motorcycles, Mopeds and Scooters"
-5592,Motor Home Dealers,Motor Homes Dealers,19005003,Shops:Automotive:RVs and Motor Homes
-5598,Snowmobile Dealers,Snowmobile Dealers,17039000,Recreation:Snow Sports
-5599,Miscellaneous Auto Dealers ,Miscellaneous Auto Dealers ,19005007,Shops:Automotive:Car Dealers and Leasing
-5611,Men's and Boy's Clothing and Accessories Stores,Men's and Boy's Clothing and Accessories Stores,19012004,Shops:Clothing and Accessories:Men's Store
-5621,Women's Ready-to-Wear Stores,Women's Ready-To-Wear Stores,19012001,Shops:Clothing and Accessories:Women's Store
-5631,Women's Accessory and Specialty Shops,Women's Accessory and Specialty Shops,19012008,Shops:Clothing and Accessories:Accessories Store
-5641,Children's and Infant's Wear Stores,Children's and Infant's Wear Stores,19012006,Shops:Clothing and Accessories:Kids' Store
-5651,Family Clothing Stores,Family Clothing Stores,19012000,Shops:Clothing and Accessories
-5655,"Sports Apparel, Riding Apparel Stores",Sports and Riding Apparel Stores,19046000,Shops:Sporting Goods
-5661,Shoe Stores,Shoe Stores,19012003,Shops:Clothing and Accessories:Shoe Store
-5681,Furriers and Fur Shops,Furriers and Fur Shops,19012007,Shops:Clothing and Accessories:Boutique
-5691,Men's and Women's Clothing Stores,"Men's, Women's Clothing Stores",19012000,Shops:Clothing and Accessories
-5697,"Tailors, Seamstress, Mending, and Alterations","Tailors, Alterations",18062000,Service:Tailors
-5698,Wig and Toupee Stores,Wig and Toupee Stores,19006000,Shops:Beauty Products
-5699,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,19012008,Shops:Clothing and Accessories:Accessories Store
-5712,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, Except Appliances",19027000,Shops:Furniture and Home Decor
-5713,Floor Covering Stores,Floor Covering Stores,18024025,Service:Home Improvement:Carpet and Flooring
-5714,"Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering, and Upholstery Stores",18024015,Service:Home Improvement:Interior Design
-5718,"Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores",18024021,"Service:Home Improvement:Fences, Fireplaces and Garage Doors"
-5719,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,18024016,Service:Home Improvement:Housewares
-5722,Household Appliance Stores,Household Appliance Stores,18024018,Service:Home Improvement:Home Appliances
-5732,Electronic Sales,Electronics Stores,19013000,Shops:Computers and Electronics
-5733,"Music Stores, Musical Instruments, Piano Sheet Music","Music Stores-Musical Instruments, Pianos, and Sheet Music",19017000,Shops:Dance and Music
-5734,Computer Software Stores,Computer Software Stores,19013000,Shops:Computers and Electronics
-5735,Record Shops,Record Stores,19017000,Shops:Dance and Music
-5811,Caterers,Caterers,18021002,Service:Food and Beverage:Catering
-5812,Eating places and Restaurants,"Eating Places, Restaurants",13005000,Food and Drink:Restaurants
-5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,13001000,Food and Drink:Bar
-5814,Fast Food Restaurants,Fast Food Restaurants,13005032,Food and Drink:Restaurants:Fast Food
-5832,"Antique Shops - Sales, Repairs, and Restoration Services",,19002000,Shops:Antiques
-5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,19043000,Shops:Pharmacies
-5921,"Package Stores - Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",19025004,"Shops:Food and Beverage Store:Beer, Wine and Spirits"
-5931,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,19050000,Shops:Vintage and Thrift
-5932,Antique Shops,Antique Shops,19002000,Shops:Antiques
-5933,Pawn Shops and Salvage Yards,Pawn Shops,19041000,Shops:Pawn Shops
-5935,Wrecking and Salvage Yards,Wrecking and Salvage Yards,19005002,Shops:Automotive:Salvage Yards
-5937,Antique Reproductions,Antique Reproductions,19002000,Shops:Antiques
-5940,Bicycle Shops - Sales and Service,Bicycle Shops,19007000,Shops:Bicycles
-5941,Sporting Goods Stores,Sporting Goods Stores,19046000,Shops:Sporting Goods
-5942,Book Stores,Book Stores,19009000,Shops:Bookstores
-5943,"Stationery Stores, Office and School Supply Stores","Stationery Stores, Office, and School Supply Stores",19039000,Shops:Office Supplies
-5944,"Watch, Clock, Jewelry, and Silverware Stores","Jewelry Stores, Watches, Clocks, and Silverware Stores",19033000,Shops:Jewelry and Watches
-5945,"Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops",19031000,Shops:Hobby and Collectibles
-5946,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,19013003,Shops:Computers and Electronics:Cameras
-5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",19028000,Shops:Gift and Novelty
-5948,Leather Foods Stores,Luggage and Leather Goods Stores,19034000,Shops:Luggage
-5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",18037001,Service:Manufacturing:Apparel and Fabric Products
-5950,Glassware/Crystal Stores,"Glassware, Crystal Stores",19028000,Shops:Gift and Novelty
-5960,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,18030000,Service:Insurance
-5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",,18001008,Service:Advertising and Marketing:Direct Mail and Email Marketing Services
-5962,Direct Marketing - Travel Related Arrangements Services,Direct Marketing - Travel,18067000,Service:Travel Agents and Tour Operators
-5963,Door-to-Door Sales,Door-To-Door Sales,19038000,Shops:Newsstands
-5964,Direct Marketing - Catalog Merchant,Direct Marketing - Catalog Merchant,18001008,Service:Advertising and Marketing:Direct Mail and Email Marketing Services
-5965,Direct Marketing - Catalog and Catalog and Retail Merchant,Direct Marketing - Combination Catalog and Retail Merchant,18001008,Service:Advertising and Marketing:Direct Mail and Email Marketing Services
-5966,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing - Outbound Tele,18001000,Service:Advertising and Marketing
-5967,Direct Marketing - Inbound Teleservices Merchant,Direct Marketing - Inbound Tele,18001000,Service:Advertising and Marketing
-5968,Direct Marketing - Continuity/Subscription Merchant,Direct Marketing - Subscription,18001000,Service:Advertising and Marketing
-5969,Direct Marketing - Not Elsewhere Classified,Direct Marketing - Other ,18001000,Service:Advertising and Marketing
-5970,Artist's Supply and Craft Shops,Artist's Supply and Craft Shops,19003000,Shops:Arts and Crafts
-5971,Art Dealers and Galleries,Art Dealers and Galleries,17001017,Recreation:Arts and Entertainment:Art Dealers and Galleries
-5972,Stamp and Coin Stores - Philatelic and Numismatic Supplies,Stamp and Coin Stores,19031000,Shops:Hobby and Collectibles
+0742,Veterinary Services,Veterinary Services,18069000,Service: Veterinarians
+0763,Agricultural Co-operatives,Agricultural Cooperative,18073004,Service: Agriculture and Forestry: Services
+0780,"Horticultural Services, Landscaping Services",Landscaping Services,18024013,Service: Home Improvement: Landscaping and Gardeners
+1520,General Contractors-Residential and Commercial,General Contractors,18013008,Service: Construction: Contractors
+1711,"Air Conditioning Contractors - Sales and Installation, Heating Contractors - Sales, Service, Installation","Heating, Plumbing, A/C",18068003,"Service: Utilities: Heating, Ventilating, and Air Conditioning"
+1731,Electrical Contractors,Electrical Contractors,18013007,Service: Construction: Electricians
+1740,"Insulation - Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors","Masonry, Stonework, and Plaster",18013004,Service: Construction: Masonry
+1750,Carpentry Contractors,Carpentry Contractors,18013010,Service: Construction: Carpenters
+1761,"Roofing - Contractors, Sheet Metal Work - Contractors, Siding - Contractors","Roofing/Siding, Sheet Metal",18013002,Service: Construction: Roofers
+1771,Contractors - Concrete Work,Concrete Work Contractors,18013001,Service: Construction: Specialty
+1799,"Contractors - Special Trade, Not Elsewhere Classified",Special Trade Contractors,18013008,Service: Construction: Contractors
+2741,Miscellaneous Publishing and Printing,Miscellaneous Publishing and Printing,18008001,Service: Business Services: Printing and Publishing
+2791,"Typesetting, Plate Making, & Related Services","Typesetting, Plate Making, and Related Services",18008001,Service: Business Services: Printing and Publishing
+2842,"Specialty Cleaning, Polishing, and Sanitation Preparations",Specialty Cleaning,18068002,Service: Utilities: Sanitary and Waste Management
+3000,UNITED AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3001,AMERICAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3002,PAN AMERICAN,Airlines,22001000,Travel: Airlines and Aviation Services
+3003,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3004,TRANS WORLD AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3005,BRITISH AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3006,JAPAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3007,AIR FRANCE,Airlines,22001000,Travel: Airlines and Aviation Services
+3008,LUFTHANSA,Airlines,22001000,Travel: Airlines and Aviation Services
+3009,AIR CANADA,Airlines,22001000,Travel: Airlines and Aviation Services
+3010,KLM (ROYAL DUTCH AIRLINES),Airlines,22001000,Travel: Airlines and Aviation Services
+3011,AEORFLOT,Airlines,22001000,Travel: Airlines and Aviation Services
+3012,QUANTAS,Airlines,22001000,Travel: Airlines and Aviation Services
+3013,ALITALIA,Airlines,22001000,Travel: Airlines and Aviation Services
+3014,SAUDIA ARABIAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3015,SWISSAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3016,SAS,Airlines,22001000,Travel: Airlines and Aviation Services
+3017,SOUTH AFRICAN AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3018,VARIG (BRAZIL),Airlines,22001000,Travel: Airlines and Aviation Services
+3019,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3020,AIR-INDIA,Airlines,22001000,Travel: Airlines and Aviation Services
+3021,AIR ALGERIE,Airlines,22001000,Travel: Airlines and Aviation Services
+3022,PHILIPPINE AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3023,MEXICANA,Airlines,22001000,Travel: Airlines and Aviation Services
+3024,PAKISTAN INTERNATIONAL,Airlines,22001000,Travel: Airlines and Aviation Services
+3025,AIR NEW ZEALAND,Airlines,22001000,Travel: Airlines and Aviation Services
+3026,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3027,UTA/INTERAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3028,AIR MALTA,Airlines,22001000,Travel: Airlines and Aviation Services
+3029,SABENA,Airlines,22001000,Travel: Airlines and Aviation Services
+3030,AEROLINEAS ARGENTINAS,Airlines,22001000,Travel: Airlines and Aviation Services
+3031,OLYMPIC AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3032,EL AL,Airlines,22001000,Travel: Airlines and Aviation Services
+3033,ANSETT AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3034,AUSTRAINLIAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3035,TAP (PORTUGAL),Airlines,22001000,Travel: Airlines and Aviation Services
+3036,VASP (BRAZIL),Airlines,22001000,Travel: Airlines and Aviation Services
+3037,EGYPTAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3038,KUWAIT AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3039,AVIANCA,Airlines,22001000,Travel: Airlines and Aviation Services
+3040,GULF AIR (BAHRAIN),Airlines,22001000,Travel: Airlines and Aviation Services
+3041,BALKAN-BULGARIAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3042,FINNAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3043,AER LINGUS,Airlines,22001000,Travel: Airlines and Aviation Services
+3044,AIR LANKA,Airlines,22001000,Travel: Airlines and Aviation Services
+3045,NIGERIA AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3046,CRUZEIRO DO SUL (BRAZIJ),Airlines,22001000,Travel: Airlines and Aviation Services
+3047,THY (TURKEY),Airlines,22001000,Travel: Airlines and Aviation Services
+3048,ROYAL AIR MAROC,Airlines,22001000,Travel: Airlines and Aviation Services
+3049,TUNIS AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3050,ICELANDAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3051,AUSTRIAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3052,LANCHILE,Airlines,22001000,Travel: Airlines and Aviation Services
+3053,AVIACO (SPAIN),Airlines,22001000,Travel: Airlines and Aviation Services
+3054,LADECO (CHILE),Airlines,22001000,Travel: Airlines and Aviation Services
+3055,LAB (BOLIVIA),Airlines,22001000,Travel: Airlines and Aviation Services
+3056,QUEBECAIRE,Airlines,22001000,Travel: Airlines and Aviation Services
+3057,EASTWEST AIRLINES (AUSTRALIA),Airlines,22001000,Travel: Airlines and Aviation Services
+3058,DELTA,Airlines,22001000,Travel: Airlines and Aviation Services
+3059,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3060,NORTHWEST,Airlines,22001000,Travel: Airlines and Aviation Services
+3061,CONTINENTAL,Airlines,22001000,Travel: Airlines and Aviation Services
+3062,WESTERN,Airlines,22001000,Travel: Airlines and Aviation Services
+3063,US AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3064,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3065,AIRINTER,Airlines,22001000,Travel: Airlines and Aviation Services
+3066,SOUTHWEST,Airlines,22001000,Travel: Airlines and Aviation Services
+3067,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3068,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3069,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3070,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3071,AIR BRITISH COLUBIA,Airlines,22001000,Travel: Airlines and Aviation Services
+3072,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3073,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3074,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3075,SINGAPORE AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3076,AEROMEXICO,Airlines,22001000,Travel: Airlines and Aviation Services
+3077,THAI AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3078,CHINA AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3079,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3080,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3081,NORDAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3082,KOREAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3083,AIR AFRIGUE,Airlines,22001000,Travel: Airlines and Aviation Services
+3084,EVA AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3085,"MIDWEST EXPRESS AIRLINES, INC.",Airlines,22001000,Travel: Airlines and Aviation Services
+3086,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3087,METRO AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3088,CROATIA AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3089,TRANSAERO,Airlines,22001000,Travel: Airlines and Aviation Services
+3090,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3091,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3092,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3093,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3094,ZAMBIA AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3095,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3096,AIR ZIMBABWE,Airlines,22001000,Travel: Airlines and Aviation Services
+3097,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3098,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3099,CATHAY PACIFIC,Airlines,22001000,Travel: Airlines and Aviation Services
+3100,MALAYSIAN AIRLINE SYSTEM,Airlines,22001000,Travel: Airlines and Aviation Services
+3101,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3102,IBERIA,Airlines,22001000,Travel: Airlines and Aviation Services
+3103,GARUDA (INDONESIA),Airlines,22001000,Travel: Airlines and Aviation Services
+3104,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3105,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3106,BRAATHENS S.A.F.E. (NORWAY),Airlines,22001000,Travel: Airlines and Aviation Services
+3107,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3108,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3109,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3110,WINGS AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3111,BRITISH MIDLAND,Airlines,22001000,Travel: Airlines and Aviation Services
+3112,WINDWARD ISLAND,Airlines,22001000,Travel: Airlines and Aviation Services
+3113,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3114,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3115,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3116,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3117,VIASA,Airlines,22001000,Travel: Airlines and Aviation Services
+3118,VALLEY AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3119,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3120,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3121,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3122,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3123,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3124,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3125,TAN,Airlines,22001000,Travel: Airlines and Aviation Services
+3126,TALAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3127,TACA INTERNATIONAL,Airlines,22001000,Travel: Airlines and Aviation Services
+3128,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3129,SURINAM AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3130,SUN WORLD INTERNATIONAL,Airlines,22001000,Travel: Airlines and Aviation Services
+3131,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3132,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3133,SUNBELT AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3134,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3135,SUDAN AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3136,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3137,SINGLETON,Airlines,22001000,Travel: Airlines and Aviation Services
+3138,SIMMONS AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3139,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3140,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3141,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3142,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3143,SCENIC AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3144,VIRGIN ATLANTIC,Airlines,22001000,Travel: Airlines and Aviation Services
+3145,SAN JUAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3146,LUXAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3147,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3148,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3149,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3150,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3151,AIR ZAIRE,Airlines,22001000,Travel: Airlines and Aviation Services
+3152,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3153,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3154,PRINCEVILLE,Airlines,22001000,Travel: Airlines and Aviation Services
+3155,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3156,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3157,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3158,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3159,PBA,Airlines,22001000,Travel: Airlines and Aviation Services
+3160,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3161,ALL NIPPON AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3162,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3163,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3164,NORONTAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3165,NEW YORK HELICOPTER,Airlines,22001000,Travel: Airlines and Aviation Services
+3166,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3167,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3168,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3169,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3170,NOUNT COOK,Airlines,22001000,Travel: Airlines and Aviation Services
+3171,CANADIAN AIRLINES INTERNATIONAL,Airlines,22001000,Travel: Airlines and Aviation Services
+3172,NATIONAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3173,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3174,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3175,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3176,METROFLIGHT AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3177,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3178,MESA AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3179,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3180,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3181,MALEV,Airlines,22001000,Travel: Airlines and Aviation Services
+3182,LOT (POLAND),Airlines,22001000,Travel: Airlines and Aviation Services
+3183,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3184,LIAT,Airlines,22001000,Travel: Airlines and Aviation Services
+3185,LAV (VENEZUELA),Airlines,22001000,Travel: Airlines and Aviation Services
+3186,LAP (PARAGUAY),Airlines,22001000,Travel: Airlines and Aviation Services
+3187,LACSA (COSTA RICA),Airlines,22001000,Travel: Airlines and Aviation Services
+3188,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3189,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3190,JUGOSLAV AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3191,ISLAND AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3192,IRAN AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3193,INDIAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3194,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3195,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3196,HAWAIIAN AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3197,HAVASU AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3198,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3199,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3200,FUYANA AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3201,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3202,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3203,GOLDEN PACIFIC AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3204,FREEDOM AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3205,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3206,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3207,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3208,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3209,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3210,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3211,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3212,DOMINICANA,Airlines,22001000,Travel: Airlines and Aviation Services
+3213,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3214,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3215,DAN AIR SERVICES,Airlines,22001000,Travel: Airlines and Aviation Services
+3216,CUMBERLAND AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3217,CSA,Airlines,22001000,Travel: Airlines and Aviation Services
+3218,CROWN AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3219,COPA,Airlines,22001000,Travel: Airlines and Aviation Services
+3220,COMPANIA FAUCETT,Airlines,22001000,Travel: Airlines and Aviation Services
+3221,TRANSPORTES AEROS MILITARES ECCUATORANOS,Airlines,22001000,Travel: Airlines and Aviation Services
+3222,COMMAND AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3223,COMAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3224,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3225,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3226,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3227,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3228,CAYMAN AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3229,SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS,Airlines,22001000,Travel: Airlines and Aviation Services
+3230,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3231,SASHA SERVICIO AERO DE HONDURAS,Airlines,22001000,Travel: Airlines and Aviation Services
+3232,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3233,CAPITOL AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3234,BWIA,Airlines,22001000,Travel: Airlines and Aviation Services
+3235,BROKWAY AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3236,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3237,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3238,BEMIDJI AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3239,BAR HARBOR AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3240,BAHAMASAIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3241,AVIATECA (GUATEMALA),Airlines,22001000,Travel: Airlines and Aviation Services
+3242,AVENSA,Airlines,22001000,Travel: Airlines and Aviation Services
+3243,AUSTRIAN AIR SERVICE,Airlines,22001000,Travel: Airlines and Aviation Services
+3244,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3245,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3246,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3247,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3248,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3249,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3250,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3251,ALOHA AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3252,ALM,Airlines,22001000,Travel: Airlines and Aviation Services
+3253,AMERICA WEST,Airlines,22001000,Travel: Airlines and Aviation Services
+3254,TRUMP AIRLINE,Airlines,22001000,Travel: Airlines and Aviation Services
+3255,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3256,ALASKA AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3257,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3258,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3259,AMERICAN TRANS AIR,Airlines,22001000,Travel: Airlines and Aviation Services
+3260,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3261,AIR CHINA,Airlines,22001000,Travel: Airlines and Aviation Services
+3262,"RENO AIR, INC.",Airlines,22001000,Travel: Airlines and Aviation Services
+3263,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3264,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3265,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3266,AIR SEYCHELLES,Airlines,22001000,Travel: Airlines and Aviation Services
+3267,AIR PANAMA,Airlines,22001000,Travel: Airlines and Aviation Services
+3268,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3269,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3270,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3271,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3272,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3273,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3274,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3275,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3276,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3277,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3278,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3279,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3280,AIR JAMAICA,Airlines,22001000,Travel: Airlines and Aviation Services
+3281,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3282,AIR DJIBOUTI,Airlines,22001000,Travel: Airlines and Aviation Services
+3283,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3284,AERO VIRGIN ISLANDS,Airlines,22001000,Travel: Airlines and Aviation Services
+3285,AERO PERU,Airlines,22001000,Travel: Airlines and Aviation Services
+3286,AEROLINEAS NICARAGUENSIS,Airlines,22001000,Travel: Airlines and Aviation Services
+3287,AERO COACH AVAIATION,Airlines,22001000,Travel: Airlines and Aviation Services
+3288,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3289,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3290,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3291,ARIANA AFGHAN,Airlines,22001000,Travel: Airlines and Aviation Services
+3292,CYPRUS AIRWAYS,Airlines,22001000,Travel: Airlines and Aviation Services
+3293,ECUATORIANA,Airlines,22001000,Travel: Airlines and Aviation Services
+3294,ETHIOPIAN AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3295,KENYA AIRLINES,Airlines,22001000,Travel: Airlines and Aviation Services
+3296,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3297,Airlines,Airlines,22001000,Travel: Airlines and Aviation Services
+3298,AIR MAURITIUS,Airlines,22001000,Travel: Airlines and Aviation Services
+3299,WIDERO'S FLYVESELSKAP,Airlines,22001000,Travel: Airlines and Aviation Services
+3351,AFFILIATED AUTO RENTAL,Car Rental,22005000,Travel: Car and Truck Rentals
+3352,AMERICAN INTL RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3353,BROOKS RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3354,ACTION AUTO RENTAL,Car Rental,22005000,Travel: Car and Truck Rentals
+3355,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3356,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3357,HERTZ RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3358,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3359,PAYLESS CAR RENTAL,Car Rental,22005000,Travel: Car and Truck Rentals
+3360,SNAPPY CAR RENTAL,Car Rental,22005000,Travel: Car and Truck Rentals
+3361,AIRWAYS RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3362,ALTRA AUTO RENTAL,Car Rental,22005000,Travel: Car and Truck Rentals
+3363,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3364,AGENCY RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3365,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3366,BUDGET RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3367,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3368,HOLIDAY RENT-A-WRECK,Car Rental,22005000,Travel: Car and Truck Rentals
+3369,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3370,RENT-A-WRECK,Car Rental,22005000,Travel: Car and Truck Rentals
+3371,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3372,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3373,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3374,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3375,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3376,AJAX RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3377,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3378,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3379,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3380,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3381,EUROP CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3382,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3383,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3384,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3385,TROPICAL RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3386,SHOWCASE RENTAL CARS,Car Rental,22005000,Travel: Car and Truck Rentals
+3387,ALAMO RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3388,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3389,AVIS RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3390,DOLLAR RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3391,EUROPE BY CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3392,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3393,NATIONAL CAR RENTAL,Car Rental,22005000,Travel: Car and Truck Rentals
+3394,KEMWELL GROUP RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3395,THRIFTY RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3396,TILDEN TENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3397,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3398,ECONO-CAR RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3399,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3400,AUTO HOST COST CAR RENTALS,Car Rental,22005000,Travel: Car and Truck Rentals
+3401,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3402,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3403,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3404,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3405,ENTERPRISE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3406,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3407,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3408,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3409,GENERAL RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3410,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3411,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3412,A-1 RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3413,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3414,GODFREY NATL RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3415,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3416,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3417,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3418,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3419,ALPHA RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3420,ANSA INTL RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3421,ALLSTAE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3422,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3423,AVCAR RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3424,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3425,AUTOMATE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3426,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3427,AVON RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3428,CAREY RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3429,INSURANCE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3430,MAJOR RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3431,REPLACEMENT RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3432,RESERVE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3433,UGLY DUCKLING RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3434,USA RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3435,VALUE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3436,AUTOHANSA RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3437,CITE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3438,INTERENT RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3439,MILLEVILLE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3440,VIA ROUTE RENT-A-CAR,Car Rental,22005000,Travel: Car and Truck Rentals
+3441,Car Rental,Car Rental,22005000,Travel: Car and Truck Rentals
+3501,"HOLIDAY INNS, HOLIDAY INN EXPRESS",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3502,BEST WESTERN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3503,SHERATON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3504,HILTON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3505,FORTE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3506,GOLDEN TULIP HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3507,FRIENDSHIP INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3508,"QUALITY INNS, QUALITY SUITES",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3509,MARRIOTT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3510,"DAYS INN, DAYSTOP",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3511,ARABELLA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3512,INTER-CONTINENTAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3513,WESTIN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3514,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3515,RODEWAY INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3516,LA QUINTA MOTOR INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3517,AMERICANA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3518,SOL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3519,PULLMAN INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3520,MERIDIEN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3521,CREST HOTELS (see FORTE HOTELS),Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3522,TOKYO HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3523,PENNSULA HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3524,WELCOMGROUP HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3525,DUNFEY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3526,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3527,DOWNTOWNER-PASSPORT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3528,"RED LION HOTELS, RED LION INNS",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3529,CP HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3530,"RENAISSANCE HOTELS, STOUFFER HOTELS",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3531,ASTIR HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3532,SUN ROUTE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3533,HOTEL IBIS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3534,SOUTHERN PACIFIC HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3535,HILTON INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3536,AMFAC HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3537,ANA HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3538,CONCORDE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3539,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3540,IBEROTEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3541,HOTEL OKURA,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3542,ROYAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3543,FOUR SEASONS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3544,CIGA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3545,SHANGRI-LA INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3546,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3547,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3548,HOTELES MELIA,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3549,AUBERGE DES GOVERNEURS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3550,REGAL 8 INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3551,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3552,COAST HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3553,PARK INNS INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3554,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3555,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3556,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3557,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3558,JOLLY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3559,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3560,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3561,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3562,COMFORT INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3563,JOURNEY'S END MOTLS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3564,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3565,RELAX INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3566,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3567,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3568,LADBROKE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3569,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3570,FORUM HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3571,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3572,MIYAKO HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3573,SANDMAN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3574,VENTURE INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3575,VAGABOND HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3576,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3577,MANDARIN ORIENTAL HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3578,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3579,HOTEL MERCURE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3580,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3581,DELTA HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3582,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3583,SAS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3584,PRINCESS HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3585,HUNGAR HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3586,SOKOS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3587,DORAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3588,HELMSLEY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3589,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3590,FAIRMONT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3591,SONESTA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3592,OMNI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3593,CUNARD HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3594,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3595,HOSPITALITY INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3596,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3597,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3598,REGENT INTERNATIONAL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3599,PANNONIA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3600,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3601,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3602,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3603,NOAH'S HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3604,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3605,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3606,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3607,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3608,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3609,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3610,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3611,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3612,MOVENPICK HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3613,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3614,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3615,TRAVELODGE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3616,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3617,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3618,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3619,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3620,TELFORD INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3621,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3622,MERLIN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3623,DORINT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3624,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3625,HOTLE UNIVERSALE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3626,PRINCE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3627,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3628,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3629,DAN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3630,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3631,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3632,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3633,RANK HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3634,SWISSOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3635,RESO HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3636,SAROVA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3637,"RAMADA INNS, RAMADA LIMITED",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3638,"HO JO INN, HOWARD JOHNSON",Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3639,MOUNT CHARLOTTE THISTLE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3640,HYATT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3641,SOFITEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3642,NOVOTEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3643,STEIGENBERGER HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3644,ECONO LODGES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3645,QUEENS MOAT HOUSES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3646,SWALLOW HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3647,HUSA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3648,DE VERE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3649,RADISSON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3650,RED ROOK INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3651,IMPERIAL LONDON HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3652,EMBASSY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3653,PENTA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3654,LOEWS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3655,SCANDIC HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3656,SARA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3657,OBEROI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3658,OTANI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3659,TAJ HOTELS INTERNATIONAL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3660,KNIGHTS INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3661,METROPOLE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3662,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3663,HOTELES EL PRESIDENTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3664,FLAG INN,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3665,HAMPTON INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3666,STAKIS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3667,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3668,MARITIM HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3669,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3670,ARCARD HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3671,ARCTIA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3672,CAMPANIEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3673,IBUSZ HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3674,RANTASIPI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3675,INTERHOTEL CEDOK,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3676,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3677,CLIMAT DE FRANCE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3678,CUMULUS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3679,DANUBIUS HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3680,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3681,ADAMS MARK HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3682,ALLSTAR INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3683,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3684,BUDGET HOST INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3685,BUDGETEL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3686,SUISSE CHALETS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3687,CLARION HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3688,COMPRI HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3689,CONSORT HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3690,COURTYARD BY MARRIOTT,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3691,DILLION INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3692,DOUBLETREE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3693,DRURY INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3694,ECONOMY INNS OF AMERICA,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3695,EMBASSY SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3696,EXEL INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3697,FARFIELD HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3698,HARLEY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3699,MIDWAY MOTOR LODGE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3700,MOTEL 6,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3701,GUEST QUARTERS (Formally PICKETT SUITE HOTELS),Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3702,THE REGISTRY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3703,RESIDENCE INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3704,ROYCE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3705,SANDMAN INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3706,SHILO INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3707,SHONEY'S INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3708,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3709,SUPER8 MOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3710,THE RITZ CARLTON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3711,FLAG INNS (AUSRALIA),Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3712,GOLDEN CHAIN HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3713,QUALITY PACIFIC HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3714,FOUR SEASONS HOTEL (AUSTRALIA),Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3715,FARIFIELD INN,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3716,CARLTON HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3717,CITY LODGE HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3718,KAROS HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3719,PROTEA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3720,SOUTHERN SUN HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3721,HILTON CONRAD,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3722,WYNDHAM HOTEL AND RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3723,RICA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3724,INER NOR HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3725,SEAINES PLANATION,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3726,RIO SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3727,BROADMOOR HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3728,BALLY'S HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3729,JOHN ASCUAGA'S NUGGET,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3730,MGM GRAND HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3731,HARRAH'S HOTELS AND CASINOS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3732,OPRYLAND HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3733,BOCA RATON RESORT,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3734,HARVEY/BRISTOL HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3735,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3736,COLORADO BELLE/EDGEWATER RESORT,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3737,RIVIERA HOTEL AND CASINO,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3738,TROPICANA RESORT AND CASINO,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3739,WOODSIDE HOTELS AND RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3740,TOWNPLACE SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3741,MILLENIUM BROADWAY HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3742,CLUB MED,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3743,BILTMORE HOTEL AND SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3744,CAREFREE RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3745,ST. REGIS HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3746,THE ELIOT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3747,CLUBCORP/CLUB RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3748,WELESLEY INNS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3749,THE BEVERLY HILLS HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3750,CROWNE PLAZA HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3751,HOMEWOOD SUITES,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3752,PEABODY HOTELS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3753,GREENBRIAH RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3754,AMELIA ISLAND PLANATION,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3755,THE HOMESTEAD,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3756,SOUTH SEAS RESORTS,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3757,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3758,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3759,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3760,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3761,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3762,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3763,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3764,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3765,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3766,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3767,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3768,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3769,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3770,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3771,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3772,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3773,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3774,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3775,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3776,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3777,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3778,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3779,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3780,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3781,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3782,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3783,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3784,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3785,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3786,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3787,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3835,* MASTERS ECONOMY INNS,,22012003,Travel: Lodging: Hotels and Motels
+4011,Railroads,Railroads,22015000,Travel: Rail
+4111,"Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",22014000,Travel: Public Transportation Services
+4112,Passenger Railways,Passenger Railways,22015000,Travel: Rail
+4119,Ambulance Services,Ambulance Services,14001011,Healthcare: Healthcare Services: Emergency Services
+4121,Taxicabs and Limousines,Taxicabs/Limousines,22016000,Travel: Taxi
+4131,"Bus Lines, Including Charters, Tour Buses",Bus Lines,22004000,Travel: Bus Stations
+4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking - Local/Long Distance, Delivery Services - Local","Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies, and Local Delivery Services ",18066000,Service: Transportation
+4215,"Courier Services - Air or Ground, Freight forwarders",Courier Services ,18058000,Service: Shipping and Freight
+4225,"Public warehousing, Storage","Public Warehousing and Storage - Farm Products, Refrigerated Goods, Household Goods, and Storage ",18060000,Service: Storage
+4411,Cruise and Steamship Lines,Cruise Lines,22008000,Travel: Cruises
+4457,Boat Rentals and Leases,Boat Rentals and Leases,17006000,Recreation: Boating
+4468,"Marinas, Marine Service, and Supplies","Marinas, Service and Supplies",17006000,Recreation: Boating
+4511,"Airlines, Air Carriers ( not listed elsewhere)","Airlines, Air Carriers",22001000,Travel: Airlines and Aviation Services
+4582,"Airports, Airport Terminals, Flying Fields","Airports, Flying Fields",22002000,Travel: Airports
+4722,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",18067000,Service: Travel Agents and Tour Operators
+4723,Package Tour Operators (For use in Germany only),TUI Travel - Germany,18067000,Service: Travel Agents and Tour Operators
+4784,Toll and Bridge Fees,Tolls/Bridge Fees,22017000,Travel: Tolls and Fees
+4789,"Transportation Services, Not elsewhere classified)",Transportation Services (Not Elsewhere Classified),22014000,Travel: Public Transportation Services
+4812,Telecommunications Equipment including telephone sales,Telecommunication Equipment and Telephone Sales,18063000,Service: Telecommunication Services
+4814,"Fax services, Telecommunication Services",Telecommunication Services,18063000,Service: Telecommunication Services
+4815,VisaPhone,,18063000,Service: Telecommunication Services
+4816,Computer Network Services,Computer Network Services,18012000,Service: Computers
+4821,Telegraph services,Telegraph Services,18063000,Service: Telecommunication Services
+4829,Money Orders - Wire Transfer,"Wires, Money Orders",21011000,Transfer: Wire
+4899,Cable and other pay television (previously Cable Services),"Cable, Satellite, and Other Pay Television and Radio",18009000,Service: Cable
+4900,"Electric, Gas, Sanitary and Water Utilities",Utilities ,18068000,Service: Utilities
+5013,Motor vehicle supplies and new parts,Motor Vehicle Supplies and New Parts,19005006,Shops: Automotive: Car Parts and Accessories
+5021,Office and Commercial Furniture,Office and Commercial Furniture,19027000,Shops: Furniture and Home Decor
+5039,"Construction Materials, Not Elsewhere Classified",Construction Materials (Not Elsewhere Classified),19014000,Shops: Construction Supplies
+5044,"Office, Photographic, Photocopy, and Microfilm Equipment","Photographic, Photocopy, Microfilm Equipment, and Supplies",18037003,Service: Manufacturing: Computers and Office Machines
+5045,"Computers, Computer Peripheral Equipment, Software","Computers, Peripherals, and Software",18037003,Service: Manufacturing: Computers and Office Machines
+5046,"Commercial Equipment, Not Elsewhere Classified",Commercial Equipment (Not Elsewhere Classified),18037003,Service: Manufacturing: Computers and Office Machines
+5047,"Medical, Dental Ophthalmic, Hospital Equipment and Supplies","Medical, Dental, Ophthalmic, and Hospital Equipment and Supplies",14001009,Healthcare: Healthcare Services: Medical Supplies and Labs
+5051,Metal Service Centers and Offices,Metal Service Centers,18037010,Service: Manufacturing: Metal Products
+5065,Electrical Parts and Equipment,Electrical Parts and Equipment,18037004,Service: Manufacturing: Electrical Equipment and Components
+5072,Hardware Equipment and Supplies,"Hardware, Equipment, and Supplies",18024020,Service: Home Improvement: Hardware and Services
+5074,Plumbing and Heating Equipment and Supplies,"Plumbing, Heating Equipment, and Supplies",18024007,Service: Home Improvement: Plumbing
+5085,"Industrial Supplies, Not Elsewhere Classified",Industrial Supplies (Not Elsewhere Classified),19032000,Shops: Industrial Supplies
+5094,"Precious Stones and Metals, Watches and Jewelry","Precious Stones and Metals, Watches and Jewelry",19033000,Shops: Jewelry and Watches
+5099,"Durable Goods, Not Elsewhere Classified",Durable Goods (Not Elsewhere Classified),18037000,Service: Manufacturing
+5111,"Stationery, Office Supplies, Printing, and Writing Paper","Stationary, Office Supplies, Printing and Writing Paper",19010000,Shops: Cards and Stationery
+5122,"Drugs, Drug Proprietors, and Druggist's Sundries","Drugs, Drug Proprietaries, and Druggist Sundries",19043000,Shops: Pharmacies
+5131,"Piece Goods, Notions, and Other Dry Goods","Piece Goods, Notions, and Other Dry Goods",18037000,Service: Manufacturing
+5137,Men's Women's and Children's Uniforms and Commercial Clothing,"Uniforms, Commercial Clothing",19012000,Shops: Clothing and Accessories
+5139,Commercial Footwear,Commercial Footwear,19012003,Shops: Clothing and Accessories: Shoe Store
+5169,"Chemicals and Allied Products, Not Elsewhere Classified",Chemicals and Allied Products (Not Elsewhere Classified),18037002,Service: Manufacturing: Chemicals and Gasses
+5172,Petroleum and Petroleum Products,Petroleum and Petroleum Products,18037013,Service: Manufacturing: Petroleum
+5192,"Books, Periodicals, and Newspapers","Books, Periodicals, and Newspapers",19038000,Shops: Newsstands
+5193,"Florists' Supplies, Nursery Stock and Flowers","Florists Supplies, Nursery Stock, and Flowers",19024000,Shops: Florists
+5198,"Paints, Varnishes, and Supplies","Paints, Varnishes, and Supplies",18013003,Service: Construction: Painting
+5199,"Non-durable Goods, Not Elsewhere Classified",Nondurable Goods (Not Elsewhere Classified),18037000,Service: Manufacturing
+5200,Home Supply Warehouse Stores,Home Supply Warehouse Stores,19030000,Shops: Hardware Store
+5211,Lumber and Building Materials Stores,"Lumber, Building Materials Stores",18024020,Service: Home Improvement: Hardware and Services
+5231,"Glass, Paint, and Wallpaper Stores","Glass, Paint, and Wallpaper Stores",18024009,Service: Home Improvement: Painting
+5251,Hardware Stores,Hardware Stores,19030000,Shops: Hardware Store
+5261,Nurseries - Lawn and Garden Supply Store,"Nurseries, Lawn and Garden Supply Stores",18024013,Service: Home Improvement: Landscaping and Gardeners
+5271,Mobile Home Dealers,Mobile Home Dealers,18024011,Service: Home Improvement: Mobile Homes
+5300,Wholesale Clubs,Wholesale Clubs,19051000,Shops: Warehouses and Wholesale Stores
+5309,Duty Free Store,Duty Free Stores,19020000,Shops: Discount Stores
+5310,Discount Stores,Discount Stores,19020000,Shops: Discount Stores
+5311,Department Stores,Department Stores,19018000,Shops: Department Stores
+5331,Variety Stores,Variety Stores,19015000,Shops: Convenience Stores
+5399,Misc. General Merchandise,Miscellaneous General Merchandise,19015000,Shops: Convenience Stores
+5411,"Grocery Stores, Supermarkets","Grocery Stores, Supermarkets",19047000,Shops: Supermarkets and Groceries
+5422,Meat Provisioners - Freezer and Locker,Freezer and Locker Meat Provisioners,19025001,Shops: Food and Beverage Store: Specialty
+5441,"Candy, Nut, and Confectionery Stores","Candy, Nut, and Confectionery Stores",19025001,Shops: Food and Beverage Store: Specialty
+5451,Dairy Products Stores,Dairy Products Stores,19025001,Shops: Food and Beverage Store: Specialty
+5462,Bakeries,Bakeries,19025001,Shops: Food and Beverage Store: Specialty
+5499,Misc. Food Stores - Convenience Stores and Specialty Markets,Miscellaneous Food Stores - Convenience Stores and Specialty Markets,19015000,Shops: Convenience Stores
+5511,"Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing","Car and Truck Dealers (New & Used) Sales, Service, Repairs Parts and Leasing ",19005007,Shops: Automotive: Car Dealers and Leasing
+5521,Automobile and Truck Dealers (Used Only),"Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing ",19005001,Shops: Automotive: Used Car Dealers
+5531,Automobile Supply Stores,Auto and Home Supply Stores,19005006,Shops: Automotive: Car Parts and Accessories
+5532,Automotive Tire Stores,Automotive Tire Stores,18006007,Service: Automotive: Auto Tires
+5533,"Automotive Parts, Accessories Stores",Automotive Parts and Accessories Stores,19005006,Shops: Automotive: Car Parts and Accessories
+5541,Service Stations ( with or without ancillary services),Service Stations ,22009000,Travel: Gas Stations
+5542,Automated Fuel Dispensers,Automated Fuel Dispensers,22009000,Travel: Gas Stations
+5551,Boat Dealers,Boat Dealers,19008000,Shops: Boat Dealers
+5561,"Recreational and Utility Trailers, Camp Dealers","Motorcycle Shops, Dealers",19005004,"Shops: Automotive: Motorcycles, Mopeds and Scooters"
+5571,Motorcycle Dealers,Motorcycle Shops and Dealers,19005004,"Shops: Automotive: Motorcycles, Mopeds and Scooters"
+5592,Motor Home Dealers,Motor Homes Dealers,19005003,Shops: Automotive: RVs and Motor Homes
+5598,Snowmobile Dealers,Snowmobile Dealers,17039000,Recreation: Snow Sports
+5599,Miscellaneous Auto Dealers ,Miscellaneous Auto Dealers ,19005007,Shops: Automotive: Car Dealers and Leasing
+5611,Men's and Boy's Clothing and Accessories Stores,Men's and Boy's Clothing and Accessories Stores,19012004,Shops: Clothing and Accessories: Men's Store
+5621,Women's Ready-to-Wear Stores,Women's Ready-To-Wear Stores,19012001,Shops: Clothing and Accessories: Women's Store
+5631,Women's Accessory and Specialty Shops,Women's Accessory and Specialty Shops,19012008,Shops: Clothing and Accessories: Accessories Store
+5641,Children's and Infant's Wear Stores,Children's and Infant's Wear Stores,19012006,Shops: Clothing and Accessories: Kids' Store
+5651,Family Clothing Stores,Family Clothing Stores,19012000,Shops: Clothing and Accessories
+5655,"Sports Apparel, Riding Apparel Stores",Sports and Riding Apparel Stores,19046000,Shops: Sporting Goods
+5661,Shoe Stores,Shoe Stores,19012003,Shops: Clothing and Accessories: Shoe Store
+5681,Furriers and Fur Shops,Furriers and Fur Shops,19012007,Shops: Clothing and Accessories: Boutique
+5691,Men's and Women's Clothing Stores,"Men's, Women's Clothing Stores",19012000,Shops: Clothing and Accessories
+5697,"Tailors, Seamstress, Mending, and Alterations","Tailors, Alterations",18062000,Service: Tailors
+5698,Wig and Toupee Stores,Wig and Toupee Stores,19006000,Shops: Beauty Products
+5699,Miscellaneous Apparel and Accessory Shops,Miscellaneous Apparel and Accessory Shops,19012008,Shops: Clothing and Accessories: Accessories Store
+5712,"Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances","Furniture, Home Furnishings, and Equipment Stores, Except Appliances",19027000,Shops: Furniture and Home Decor
+5713,Floor Covering Stores,Floor Covering Stores,18024025,Service: Home Improvement: Carpet and Flooring
+5714,"Drapery, Window Covering and Upholstery Stores","Drapery, Window Covering, and Upholstery Stores",18024015,Service: Home Improvement: Interior Design
+5718,"Fireplace, Fireplace Screens, and Accessories Stores","Fireplace, Fireplace Screens, and Accessories Stores",18024021,"Service: Home Improvement: Fences, Fireplaces and Garage Doors"
+5719,Miscellaneous Home Furnishing Specialty Stores,Miscellaneous Home Furnishing Specialty Stores,18024016,Service: Home Improvement: Housewares
+5722,Household Appliance Stores,Household Appliance Stores,18024018,Service: Home Improvement: Home Appliances
+5732,Electronic Sales,Electronics Stores,19013000,Shops: Computers and Electronics
+5733,"Music Stores, Musical Instruments, Piano Sheet Music","Music Stores-Musical Instruments, Pianos, and Sheet Music",19017000,Shops: Dance and Music
+5734,Computer Software Stores,Computer Software Stores,19013000,Shops: Computers and Electronics
+5735,Record Shops,Record Stores,19017000,Shops: Dance and Music
+5811,Caterers,Caterers,18021002,Service: Food and Beverage: Catering
+5812,Eating places and Restaurants,"Eating Places, Restaurants",13005000,Food and Drink: Restaurants
+5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,13001000,Food and Drink: Bar
+5814,Fast Food Restaurants,Fast Food Restaurants,13005032,Food and Drink: Restaurants: Fast Food
+5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops: Digital Purchase
+5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops: Digital Purchase
+5817,Digital Goods: Applications (Excludes Games),Digital Goods: Applications (Excludes Games),19019000,Shops: Digital Purchase
+5818,Digital Goods: Multi-Category,Digital Goods: Multi-Category,19019000,Shops: Digital Purchase
+5832,"Antique Shops - Sales, Repairs, and Restoration Services",,19002000,Shops: Antiques
+5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,19043000,Shops: Pharmacies
+5921,"Package Stores - Beer, Wine, and Liquor","Package Stores-Beer, Wine, and Liquor",19025004,"Shops: Food and Beverage Store: Beer, Wine and Spirits"
+5931,Used Merchandise and Secondhand Stores,Used Merchandise and Secondhand Stores,19050000,Shops: Vintage and Thrift
+5932,Antique Shops,Antique Shops,19002000,Shops: Antiques
+5933,Pawn Shops and Salvage Yards,Pawn Shops,19041000,Shops: Pawn Shops
+5935,Wrecking and Salvage Yards,Wrecking and Salvage Yards,19005002,Shops: Automotive: Salvage Yards
+5937,Antique Reproductions,Antique Reproductions,19002000,Shops: Antiques
+5940,Bicycle Shops - Sales and Service,Bicycle Shops,19007000,Shops: Bicycles
+5941,Sporting Goods Stores,Sporting Goods Stores,19046000,Shops: Sporting Goods
+5942,Book Stores,Book Stores,19009000,Shops: Bookstores
+5943,"Stationery Stores, Office and School Supply Stores","Stationery Stores, Office, and School Supply Stores",19039000,Shops: Office Supplies
+5944,"Watch, Clock, Jewelry, and Silverware Stores","Jewelry Stores, Watches, Clocks, and Silverware Stores",19033000,Shops: Jewelry and Watches
+5945,"Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops",19031000,Shops: Hobby and Collectibles
+5946,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,19013003,Shops: Computers and Electronics: Cameras
+5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",19028000,Shops: Gift and Novelty
+5948,Leather Foods Stores,Luggage and Leather Goods Stores,19034000,Shops: Luggage
+5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",18037001,Service: Manufacturing: Apparel and Fabric Products
+5950,Glassware/Crystal Stores,"Glassware, Crystal Stores",19028000,Shops: Gift and Novelty
+5960,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,18030000,Service: Insurance
+5961,"Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)",,18001008,Service: Advertising and Marketing: Direct Mail and Email Marketing Services
+5962,Direct Marketing - Travel Related Arrangements Services,Direct Marketing - Travel,18067000,Service: Travel Agents and Tour Operators
+5963,Door-to-Door Sales,Door-To-Door Sales,19038000,Shops: Newsstands
+5964,Direct Marketing - Catalog Merchant,Direct Marketing - Catalog Merchant,18001008,Service: Advertising and Marketing: Direct Mail and Email Marketing Services
+5965,Direct Marketing - Catalog and Catalog and Retail Merchant,Direct Marketing - Combination Catalog and Retail Merchant,18001008,Service: Advertising and Marketing: Direct Mail and Email Marketing Services
+5966,Direct Marketing- Outbound Telemarketing Merchant,Direct Marketing - Outbound Tele,18001000,Service: Advertising and Marketing
+5967,Direct Marketing - Inbound Teleservices Merchant,Direct Marketing - Inbound Tele,18001000,Service: Advertising and Marketing
+5968,Direct Marketing - Continuity/Subscription Merchant,Direct Marketing - Subscription,18001000,Service: Advertising and Marketing
+5969,Direct Marketing - Not Elsewhere Classified,Direct Marketing - Other ,18001000,Service: Advertising and Marketing
+5970,Artist's Supply and Craft Shops,Artist's Supply and Craft Shops,19003000,Shops: Arts and Crafts
+5971,Art Dealers and Galleries,Art Dealers and Galleries,17001017,Recreation: Arts and Entertainment: Art Dealers and Galleries
+5972,Stamp and Coin Stores - Philatelic and Numismatic Supplies,Stamp and Coin Stores,19031000,Shops: Hobby and Collectibles
 5973,Religious Goods Stores,Religious Goods Stores,19000000,Shops
 5975,"Hearing Aids - Sales, Service, and Supply Stores",Hearing Aids Sales and Supplies,19000000,Shops
 5976,Orthopedic Goods Prosthetic Devices,Orthopedic Goods - Prosthetic Devices,19000000,Shops
-5977,Cosmetic Stores,Cosmetic Stores,19006000,Shops:Beauty Products
-5978,"Typewriter Stores - Sales, Rental, Service",Typewriter Stores,19039000,Shops:Office Supplies
-5983,"Fuel - Fuel Oil, Wood, Coal, Liquefied Petroleum",Fuel Dealers (Non Automotive),19026000,Shops:Fuel Dealer
-5992,Florists,Florists,19024000,Shops:Florists
+5977,Cosmetic Stores,Cosmetic Stores,19006000,Shops: Beauty Products
+5978,"Typewriter Stores - Sales, Rental, Service",Typewriter Stores,19039000,Shops: Office Supplies
+5983,"Fuel - Fuel Oil, Wood, Coal, Liquefied Petroleum",Fuel Dealers (Non Automotive),19026000,Shops: Fuel Dealer
+5992,Florists,Florists,19024000,Shops: Florists
 5993,Cigar Stores and Stands,Cigar Stores and Stands,19000000,Shops
-5994,News Dealers and Newsstands,News Dealers and Newsstands,19038000,Shops:Newsstands
-5995,"Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Food, and Supplies",19042000,Shops:Pets
-5996,"Swimming Pools - Sales, Service, and Supplies",Swimming Pools Sales,18024006,Service:Home Improvement:Pools and Spas
-5997,Electric Razor Stores - Sales and Service,Electric Razor Stores,18045000,Service:Personal Care
-5998,Tent and Awning Shops,Tent and Awning Shops,17025000,Recreation:Outdoors
+5994,News Dealers and Newsstands,News Dealers and Newsstands,19038000,Shops: Newsstands
+5995,"Pet Shops, Pet Foods, and Supplies Stores","Pet Shops, Pet Food, and Supplies",19042000,Shops: Pets
+5996,"Swimming Pools - Sales, Service, and Supplies",Swimming Pools Sales,18024006,Service: Home Improvement: Pools and Spas
+5997,Electric Razor Stores - Sales and Service,Electric Razor Stores,18045000,Service: Personal Care
+5998,Tent and Awning Shops,Tent and Awning Shops,17025000,Recreation: Outdoors
 5999,Miscellaneous and Specialty Retail Stores,Miscellaneous Specialty Retail,19000000,Shops
 6010,Financial Institutions - Manual Cash Disbursements,Manual Cash Disburse,11000000,Cash Advance
 6011,Financial Institutions - Manual Cash Disbursements,Automated Cash Disburse,11000000,Cash Advance
-6012,Financial Institutions - Merchandise and Services,Financial Institutions,18020012,Service:Financial:Banking and Finance
-6051,"Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",18020010,Service:Financial:Check Cashing
-6211,Security Brokers/Dealers,Security Brokers/Dealers,18020003,Service:Financial:Stock Brokers
-6300,"Insurance Sales, Underwriting, and Premiums","Insurance Underwriting, Premiums",18030000,Service:Insurance
-6381,"Insurance Premiums, (no longer valid for first presentment work)",,18030000,Service:Insurance
-6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,18030000,Service:Insurance
-6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,18050003,Service:Real Estate:Real Estate Agents
-7011,"Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",22012003,Travel:Lodging:Hotels and Motels
-7012,Timeshares,Timeshares,22012002,Travel:Lodging:Lodges and Vacation Rentals
-7032,Sporting and Recreational Camps,Sporting/Recreation Camps,17041000,Recreation:Sports and Recreation Camps
-7033,Trailer Parks and Camp Grounds,"Trailer Parks, Campgrounds",17007000,Recreation:Campgrounds and RV Parks
-7210,"Laundry, Cleaning, and Garment Services","Laundry, Cleaning Services",18045008,Service:Personal Care:Laundry and Garment Services
-7211,Laundry - Family and Commercial,Laundries ,18045008,Service:Personal Care:Laundry and Garment Services
-7216,Dry Cleaners,Dry Cleaners,18045008,Service:Personal Care:Laundry and Garment Services
-7217,Carpet and Upholstery Cleaning,Carpet/Upholstery Cleaning,18024025,Service:Home Improvement:Carpet and Flooring
-7221,Photographic Studios,Photographic Studios,18047000,Service:Photography
-7230,Barber and Beauty Shops,Barber and Beauty Shops,18045009,Service:Personal Care:Hair Salons and Barbers
-7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",Shoe Repair/Hat Cleaning,18011000,Service:Cleaning
-7261,Funeral Service and Crematories,"Funeral Services, Crematories",18022000,Service:Funeral Services
-7273,Dating and Escort Services,Dating/Escort Services,18015000,Service:Dating and Escort
-7276,Tax Preparation Service,Tax Preparation Services,18020001,Service:Financial:Taxes
-7277,"Counseling Service - Debt, Marriage, Personal",Counseling Services,18014000,Service:Credit Counseling and Bankruptcy Services
-7278,"Buying/Shopping Services, Clubs",Buying/Shopping Services,19053000,Shops:Wholesale
-7296,"Clothing Rental - Costumes, Formal Wear, Uniforms",Clothing Rental ,19016000,Shops:Costumes
-7297,Massage Parlors,Massage Parlors,18045006,Service:Personal Care:Massage Clinics and Therapists
-7298,Health and Beauty Shops,Health and Beauty Spas,18045003,Service:Personal Care:Spas
-7299,Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous General Services,18045000,Service:Personal Care
-7311,Advertising Services,Advertising Services,18001010,Service:Advertising and Marketing:Advertising Agencies and Media Buyers
-7321,Consumer Credit Reporting Agencies,Credit Reporting Agencies,18020008,Service:Financial:Credit Reporting
-7332,Blueprinting and Photocopying Services,,18008001,Service:Business Services:Printing and Publishing
-7333,"Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics",18074000,Service:Art and Graphic Design
-7338,"Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Repro, and Blueprint",18008001,Service:Business Services:Printing and Publishing
-7339,Stenographic and Secretarial Support Services,Secretarial Support Services,18008000,Service:Business Services
-7342,Exterminating and Disinfecting Services,Exterminating Services,18024008,Service:Home Improvement:Pest Control
-7349,"Cleaning and Maintenance, Janitorial Services",Cleaning and Maintenance,18011000,Service:Cleaning
-7361,"Employment Agencies, Temporary Help Services",Employment/Temp Agencies,18016000,Service:Employment Agencies
-7372,"Computer Programming, Integrated Systems Design and Data Processing Services",Computer Programming,18059000,Service:Software Development
-7375,Information Retrieval Services,Information Retrieval Services,18012000,Service:Computers
-7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified",Computer Repair,18012001,Service:Computers:Maintenance and Repair
-7392,"Management, Consulting, and Public Relations Services","Consulting, Public Relations",18001003,Service:Advertising and Marketing:Public Relations
-7393,Protective and Security Services - Including Armored Carsand Guard Dogs,Detective Agencies,18057000,Service:Security and Safety
-7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",Equipment Rental ,19022000,Shops:Equipment Rental
-7395,"Photofinishing Laboratories, Photo Developing",Photo Developing,18047000,Service:Photography
-7399,"Business Services, Not Elsewhere Classified",Miscellaneous Business Services ,18008000,Service:Business Services
-7511,Truck Stop,Truck Stop,22009000,Travel:Gas Stations
-7512,Car Rental Companies ( Not Listed Below),Car Rental Agencies,22005000,Travel:Car and Truck Rentals
-7513,Truck and Utility Trailer Rentals,Truck/Utility Trailer Rentals,22005000,Travel:Car and Truck Rentals
-7519,Motor Home and Recreational Vehicle Rentals,Recreational Vehicle Rentals,19005003,Shops:Automotive:RVs and Motor Homes
-7523,Automobile Parking Lots and Garages,"Parking Lots, Garages",22013000,Travel:Parking
-7531,Automotive Body Repair Shops,Auto Body Repair Shops,18006003,Service:Automotive:Maintenance and Repair
-7534,Tire Re-treading and Repair Shops,Tire Retreading and Repair,18006003,Service:Automotive:Maintenance and Repair
-7535,Paint Shops - Automotive,Auto Paint Shops,18006003,Service:Automotive:Maintenance and Repair
-7538,Automotive Service Shops,Auto Service Shops,18006003,Service:Automotive:Maintenance and Repair
-7542,Car Washes,Car Washes,18006004,Service:Automotive:Car Wash and Detail
-7549,Towing Services,Towing Services,18006001,Service:Automotive:Towing
-7622,Radio Repair Shops,Electronics Repair Shops,19013000,Shops:Computers and Electronics
-7623,Air Conditioning and Refrigeration Repair Shops,"A/C, Refrigeration Repair",18053000,Service:Repair Services
-7629,Electrical And Small Appliance Repair Shops,Small Appliance Repair,18053000,Service:Repair Services
-7631,"Watch, Clock, and Jewelry Repair",Watch/Jewelry Repair,19033000,Shops:Jewelry and Watches
-7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",18053000,Service:Repair Services
-7692,Welding Repair,Welding Repair,18053000,Service:Repair Services
-7699,Repair Shops and Related Services -Miscellaneous,Miscellaneous Repair Shops,18053000,Service:Repair Services
-7829,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,18018001,Service:Entertainment:Media
-7832,Motion Picture Theaters,Motion Picture Theaters,17001009,Recreation:Arts and Entertainment:Movie Theatres
-7841,Video Tape Rental Stores,Video Tape Rental Stores,19036000,"Shops:Music, Video and DVD"
-7911,"Dance Halls, Studios and Schools","Dance Hall, Studios, Schools",17001012,Recreation:Arts and Entertainment:Dance Halls and Saloons
-7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies",Theatrical Ticket Agencies,17001000,Recreation:Arts and Entertainment
-7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras",17001002,Recreation:Arts and Entertainment:Symphony and Opera
-7932,Billiard and Pool Establishments,Billiard/Pool Establishments,17001016,Recreation:Arts and Entertainment:Billiards and Pool
-7933,Bowling Alleys,Bowling Alleys,17001015,Recreation:Arts and Entertainment:Bowling
-7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",Sports Clubs/Fields,17042000,Recreation:Sports Clubs
-7991,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,17023001,Recreation:Landmarks:Monuments and Memorials
-7992,Golf Courses - Public,Golf Courses - Public,17015000,Recreation:Golf
-7993,Video Amusement Game Supplies,Video Amusement Game Supplies,19013001,Shops:Computers and Electronics:Video Games
-7994,Video Game Arcades/Establishments,Video Game Arcades,17001018,Recreation:Arts and Entertainment:Arcades and Amusement Parks
-7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers)",Betting/Casino Gambling,17001014,Recreation:Arts and Entertainment:Casinos and Gaming
-7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,17001018,Recreation:Arts and Entertainment:Arcades and Amusement Parks
-7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,17042000,Recreation:Sports Clubs
-7998,"Aquariums, Sea-aquariums, Dolphinariums",Aquariums,17001019,Recreation:Arts and Entertainment:Aquarium
-7999,Recreation Services (Not Elsewhere Classified),Miscellaneous Recreation Services,17042000,Recreation:Sports Clubs
-8011,Doctors and Physicians (Not Elsewhere Classified),Doctors,14002000,Healthcare:Physicians
-8021,Dentists and Orthodontists,"Dentists, Orthodontists",14001012,Healthcare:Healthcare Services:Dentists
-8031,Osteopaths,Osteopaths,14001016,Healthcare:Healthcare Services:Alternative Medicine
-8041,Chiropractors,Chiropractors,14001014,Healthcare:Healthcare Services:Chiropractors
-8042,Optometrists and Ophthalmologists,"Optometrists, Ophthalmologist",14001005,Healthcare:Healthcare Services:Optometrists
-8043,"Opticians, Opticians Goods and Eyeglasses","Opticians, Eyeglasses",19029000,Shops:Glasses and Optometrist
-8044,"Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",,19029000,Shops:Glasses and Optometrist
-8049,Podiatrists and Chiropodists,"Chiropodists, Podiatrists",14001003,Healthcare:Healthcare Services:Podiatrists
-8050,Nursing and Personal Care Facilities,Nursing/Personal Care ,14001007,Healthcare:Healthcare Services:Nurses
-8062,Hospitals,Hospitals,14001010,"Healthcare:Healthcare Services:Hospitals, Clinics and Medical Centers"
-8071,Medical and Dental Laboratories,Medical and Dental Labs,14001009,Healthcare:Healthcare Services:Medical Supplies and Labs
-8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services ,14001000,Healthcare:Healthcare Services
-8111,Legal Services and Attorneys,"Legal Services, Attorneys",18033000,Service:Legal
-8211,Elementary and Secondary Schools,"Elementary, Secondary Schools",12008003,Community:Education:Primary and Secondary Schools
-8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Universities",12008003,Community:Education:Primary and Secondary Schools
-8241,Correspondence Schools,Correspondence Schools,12008003,Community:Education:Primary and Secondary Schools
-8244,Business and Secretarial Schools,Business/Secretarial Schools,12008003,Community:Education:Primary and Secondary Schools
-8249,Vocational Schools and Trade Schools,Vocational/Trade Schools,12008001,Community:Education:Vocational Schools
-8299,Schools and Educational Services ( Not Elsewhere Classified),Educational Services ,12008000,Community:Education
-8351,Child Care Services,Child Care Services,12005000,Community:Day Care and Preschools
-8398,Charitable and Social Service Organizations,Charitable and Social Service Organizations - Fundraising,12015003,Community:Organizations and Associations:Charities and Non-Profits
-8641,"Civic, Fraternal, and Social Associations","Civic, Social, Fraternal Associations",12015000,Community:Organizations and Associations
-8651,Political Organizations,Political Organizations,12015000,Community:Organizations and Associations
-8661,Religious Organizations,Religious Organizations,12018000,Community:Religious
-8675,Automobile Associations,Automobile Associations,12015000,Community:Organizations and Associations
-8699,Membership Organizations ( Not Elsewhere Classified),Membership Organizations,12015000,Community:Organizations and Associations
-8734,Testing Laboratories ( non-medical),Testing Laboratories,18054000,Service:Research
-8911,Architectural - Engineering and Surveying Services,Architectural/Surveying Services,18050007,Service:Real Estate:Building and Land Surveyors
-8931,"Accounting, Auditing, and Bookkeeping Services",Accounting/Bookkeeping Services,18020014,Service:Financial:Accounting and Bookkeeping
+6012,Financial Institutions - Merchandise and Services,Financial Institutions,18020012,Service: Financial: Banking and Finance
+6051,"Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",18020010,Service: Financial: Check Cashing
+6211,Security Brokers/Dealers,Security Brokers/Dealers,18020003,Service: Financial: Stock Brokers
+6300,"Insurance Sales, Underwriting, and Premiums","Insurance Underwriting, Premiums",18030000,Service: Insurance
+6381,"Insurance Premiums, (no longer valid for first presentment work)",,18030000,Service: Insurance
+6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,18030000,Service: Insurance
+6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,18050003,Service: Real Estate: Real Estate Agents
+7011,"Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",22012003,Travel: Lodging: Hotels and Motels
+7012,Timeshares,Timeshares,22012002,Travel: Lodging: Lodges and Vacation Rentals
+7032,Sporting and Recreational Camps,Sporting/Recreation Camps,17041000,Recreation: Sports and Recreation Camps
+7033,Trailer Parks and Camp Grounds,"Trailer Parks, Campgrounds",17007000,Recreation: Campgrounds and RV Parks
+7210,"Laundry, Cleaning, and Garment Services","Laundry, Cleaning Services",18045008,Service: Personal Care: Laundry and Garment Services
+7211,Laundry - Family and Commercial,Laundries ,18045008,Service: Personal Care: Laundry and Garment Services
+7216,Dry Cleaners,Dry Cleaners,18045008,Service: Personal Care: Laundry and Garment Services
+7217,Carpet and Upholstery Cleaning,Carpet/Upholstery Cleaning,18024025,Service: Home Improvement: Carpet and Flooring
+7221,Photographic Studios,Photographic Studios,18047000,Service: Photography
+7230,Barber and Beauty Shops,Barber and Beauty Shops,18045009,Service: Personal Care: Hair Salons and Barbers
+7251,"Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops",Shoe Repair/Hat Cleaning,18011000,Service: Cleaning
+7261,Funeral Service and Crematories,"Funeral Services, Crematories",18022000,Service: Funeral Services
+7273,Dating and Escort Services,Dating/Escort Services,18015000,Service: Dating and Escort
+7276,Tax Preparation Service,Tax Preparation Services,18020001,Service: Financial: Taxes
+7277,"Counseling Service - Debt, Marriage, Personal",Counseling Services,18014000,Service: Credit Counseling and Bankruptcy Services
+7278,"Buying/Shopping Services, Clubs",Buying/Shopping Services,19053000,Shops: Wholesale
+7296,"Clothing Rental - Costumes, Formal Wear, Uniforms",Clothing Rental ,19016000,Shops: Costumes
+7297,Massage Parlors,Massage Parlors,18045006,Service: Personal Care: Massage Clinics and Therapists
+7298,Health and Beauty Shops,Health and Beauty Spas,18045003,Service: Personal Care: Spas
+7299,Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous General Services,18045000,Service: Personal Care
+7311,Advertising Services,Advertising Services,18001010,Service: Advertising and Marketing: Advertising Agencies and Media Buyers
+7321,Consumer Credit Reporting Agencies,Credit Reporting Agencies,18020008,Service: Financial: Credit Reporting
+7332,Blueprinting and Photocopying Services,,18008001,Service: Business Services: Printing and Publishing
+7333,"Commercial Photography, Art and Graphics","Commercial Photography, Art and Graphics",18074000,Service: Art and Graphic Design
+7338,"Quick Copy, Reproduction and Blueprinting Services","Quick Copy, Repro, and Blueprint",18008001,Service: Business Services: Printing and Publishing
+7339,Stenographic and Secretarial Support Services,Secretarial Support Services,18008000,Service: Business Services
+7342,Exterminating and Disinfecting Services,Exterminating Services,18024008,Service: Home Improvement: Pest Control
+7349,"Cleaning and Maintenance, Janitorial Services",Cleaning and Maintenance,18011000,Service: Cleaning
+7361,"Employment Agencies, Temporary Help Services",Employment/Temp Agencies,18016000,Service: Employment Agencies
+7372,"Computer Programming, Integrated Systems Design and Data Processing Services",Computer Programming,18059000,Service: Software Development
+7375,Information Retrieval Services,Information Retrieval Services,18012000,Service: Computers
+7379,"Computer Maintenance and Repair Services, Not Elsewhere Classified",Computer Repair,18012001,Service: Computers: Maintenance and Repair
+7392,"Management, Consulting, and Public Relations Services","Consulting, Public Relations",18001003,Service: Advertising and Marketing: Public Relations
+7393,Protective and Security Services - Including Armored Carsand Guard Dogs,Detective Agencies,18057000,Service: Security and Safety
+7394,"Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental",Equipment Rental ,19022000,Shops: Equipment Rental
+7395,"Photofinishing Laboratories, Photo Developing",Photo Developing,18047000,Service: Photography
+7399,"Business Services, Not Elsewhere Classified",Miscellaneous Business Services ,18008000,Service: Business Services
+7511,Truck Stop,Truck Stop,22009000,Travel: Gas Stations
+7512,Car Rental Companies ( Not Listed Below),Car Rental Agencies,22005000,Travel: Car and Truck Rentals
+7513,Truck and Utility Trailer Rentals,Truck/Utility Trailer Rentals,22005000,Travel: Car and Truck Rentals
+7519,Motor Home and Recreational Vehicle Rentals,Recreational Vehicle Rentals,19005003,Shops: Automotive: RVs and Motor Homes
+7523,Automobile Parking Lots and Garages,"Parking Lots, Garages",22013000,Travel: Parking
+7531,Automotive Body Repair Shops,Auto Body Repair Shops,18006003,Service: Automotive: Maintenance and Repair
+7534,Tire Re-treading and Repair Shops,Tire Retreading and Repair,18006003,Service: Automotive: Maintenance and Repair
+7535,Paint Shops - Automotive,Auto Paint Shops,18006003,Service: Automotive: Maintenance and Repair
+7538,Automotive Service Shops,Auto Service Shops,18006003,Service: Automotive: Maintenance and Repair
+7542,Car Washes,Car Washes,18006004,Service: Automotive: Car Wash and Detail
+7549,Towing Services,Towing Services,18006001,Service: Automotive: Towing
+7622,Radio Repair Shops,Electronics Repair Shops,19013000,Shops: Computers and Electronics
+7623,Air Conditioning and Refrigeration Repair Shops,"A/C, Refrigeration Repair",18053000,Service: Repair Services
+7629,Electrical And Small Appliance Repair Shops,Small Appliance Repair,18053000,Service: Repair Services
+7631,"Watch, Clock, and Jewelry Repair",Watch/Jewelry Repair,19033000,Shops: Jewelry and Watches
+7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",18053000,Service: Repair Services
+7692,Welding Repair,Welding Repair,18053000,Service: Repair Services
+7699,Repair Shops and Related Services -Miscellaneous,Miscellaneous Repair Shops,18053000,Service: Repair Services
+7829,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,18018001,Service: Entertainment: Media
+7832,Motion Picture Theaters,Motion Picture Theaters,17001009,Recreation: Arts and Entertainment: Movie Theatres
+7841,Video Tape Rental Stores,Video Tape Rental Stores,19036000,"Shops: Music, Video and DVD"
+7911,"Dance Halls, Studios and Schools","Dance Hall, Studios, Schools",17001012,Recreation: Arts and Entertainment: Dance Halls and Saloons
+7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies",Theatrical Ticket Agencies,17001000,Recreation: Arts and Entertainment
+7929,"Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)","Bands, Orchestras",17001002,Recreation: Arts and Entertainment: Symphony and Opera
+7932,Billiard and Pool Establishments,Billiard/Pool Establishments,17001016,Recreation: Arts and Entertainment: Billiards and Pool
+7933,Bowling Alleys,Bowling Alleys,17001015,Recreation: Arts and Entertainment: Bowling
+7941,"Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters",Sports Clubs/Fields,17042000,Recreation: Sports Clubs
+7991,Tourist Attractions and Exhibits,Tourist Attractions and Exhibits,17023001,Recreation: Landmarks: Monuments and Memorials
+7992,Golf Courses - Public,Golf Courses - Public,17015000,Recreation: Golf
+7993,Video Amusement Game Supplies,Video Amusement Game Supplies,19013001,Shops: Computers and Electronics: Video Games
+7994,Video Game Arcades/Establishments,Video Game Arcades,17001018,Recreation: Arts and Entertainment: Arcades and Amusement Parks
+7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers)",Betting/Casino Gambling,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
+7996,"Amusement Parks, Carnivals, Circuses, Fortune Tellers",Amusement Parks/Carnivals,17001018,Recreation: Arts and Entertainment: Arcades and Amusement Parks
+7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses",Country Clubs,17042000,Recreation: Sports Clubs
+7998,"Aquariums, Sea-aquariums, Dolphinariums",Aquariums,17001019,Recreation: Arts and Entertainment: Aquarium
+7999,Recreation Services (Not Elsewhere Classified),Miscellaneous Recreation Services,17042000,Recreation: Sports Clubs
+8011,Doctors and Physicians (Not Elsewhere Classified),Doctors,14002000,Healthcare: Physicians
+8021,Dentists and Orthodontists,"Dentists, Orthodontists",14001012,Healthcare: Healthcare Services: Dentists
+8031,Osteopaths,Osteopaths,14001016,Healthcare: Healthcare Services: Alternative Medicine
+8041,Chiropractors,Chiropractors,14001014,Healthcare: Healthcare Services: Chiropractors
+8042,Optometrists and Ophthalmologists,"Optometrists, Ophthalmologist",14001005,Healthcare: Healthcare Services: Optometrists
+8043,"Opticians, Opticians Goods and Eyeglasses","Opticians, Eyeglasses",19029000,Shops: Glasses and Optometrist
+8044,"Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",,19029000,Shops: Glasses and Optometrist
+8049,Podiatrists and Chiropodists,"Chiropodists, Podiatrists",14001003,Healthcare: Healthcare Services: Podiatrists
+8050,Nursing and Personal Care Facilities,Nursing/Personal Care ,14001007,Healthcare: Healthcare Services: Nurses
+8062,Hospitals,Hospitals,14001010,"Healthcare: Healthcare Services: Hospitals, Clinics and Medical Centers"
+8071,Medical and Dental Laboratories,Medical and Dental Labs,14001009,Healthcare: Healthcare Services: Medical Supplies and Labs
+8099,Medical Services and Health Practitioners (Not Elsewhere Classified),Medical Services ,14001000,Healthcare: Healthcare Services
+8111,Legal Services and Attorneys,"Legal Services, Attorneys",18033000,Service: Legal
+8211,Elementary and Secondary Schools,"Elementary, Secondary Schools",12008003,Community: Education: Primary and Secondary Schools
+8220,"Colleges, Junior Colleges, Universities, and ProfessionalSchools","Colleges, Universities",12008003,Community: Education: Primary and Secondary Schools
+8241,Correspondence Schools,Correspondence Schools,12008003,Community: Education: Primary and Secondary Schools
+8244,Business and Secretarial Schools,Business/Secretarial Schools,12008003,Community: Education: Primary and Secondary Schools
+8249,Vocational Schools and Trade Schools,Vocational/Trade Schools,12008001,Community: Education: Vocational Schools
+8299,Schools and Educational Services ( Not Elsewhere Classified),Educational Services ,12008000,Community: Education
+8351,Child Care Services,Child Care Services,12005000,Community: Day Care and Preschools
+8398,Charitable and Social Service Organizations,Charitable and Social Service Organizations - Fundraising,12015003,Community: Organizations and Associations: Charities and Non-Profits
+8641,"Civic, Fraternal, and Social Associations","Civic, Social, Fraternal Associations",12015000,Community: Organizations and Associations
+8651,Political Organizations,Political Organizations,12015000,Community: Organizations and Associations
+8661,Religious Organizations,Religious Organizations,12018000,Community: Religious
+8675,Automobile Associations,Automobile Associations,12015000,Community: Organizations and Associations
+8699,Membership Organizations ( Not Elsewhere Classified),Membership Organizations,12015000,Community: Organizations and Associations
+8734,Testing Laboratories ( non-medical),Testing Laboratories,18054000,Service: Research
+8911,Architectural - Engineering and Surveying Services,Architectural/Surveying Services,18050007,Service: Real Estate: Building and Land Surveyors
+8931,"Accounting, Auditing, and Bookkeeping Services",Accounting/Bookkeeping Services,18020014,Service: Financial: Accounting and Bookkeeping
 8999,Professional Services ( Not Elsewhere Defined),Professional Services,18000000,Service
-9211,"Court Costs, including Alimony and Child Support","Court Costs, Including Alimony and Child Support - Courts of Law",12004000,Community:Courts
-9222,Fines,Fines - Government Administrative Entities,12009000,Community:Government Departments and Agencies
-9223,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",12004000,Community:Courts
+9211,"Court Costs, including Alimony and Child Support","Court Costs, Including Alimony and Child Support - Courts of Law",12004000,Community: Courts
+9222,Fines,Fines - Government Administrative Entities,12009000,Community: Government Departments and Agencies
+9223,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",12004000,Community: Courts
 9311,Tax Payments,Tax Payments - Government Agencies,20000000,Tax
-9399,Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),12009000,Community:Government Departments and Agencies
-9402,Postal Services - Government Only,Postal Services - Government Only,12016000,Community:Post Offices
-9405,Intra - Government Transactions,U.S. Federal Government Agencies or Departments,12009000,Community:Government Departments and Agencies
-5818,Digital Goods: Multi-Category,Digital Goods: Multi-Category,19019000,Shops:Digital Purchase
-5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops:Digital Purchase
-5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops:Digital Purchase
-6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),POI (Point of Interaction) Funding Transactions,18020010,Service:Financial:Check Cashing
-3813,HOTEL INDIGO,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3814,THE ROOSEVELT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
-3812,HYATT PLACE,Hotels/Motels/Inns/Resorts,22012003,Travel:Lodging:Hotels and Motels
+9399,Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),12009000,Community: Government Departments and Agencies
+9402,Postal Services - Government Only,Postal Services - Government Only,12016000,Community: Post Offices
+9405,Intra - Government Transactions,U.S. Federal Government Agencies or Departments,12009000,Community: Government Departments and Agencies
+5818,Digital Goods: Multi-Category,Digital Goods: Multi-Category,19019000,Shops: Digital Purchase
+5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops: Digital Purchase
+5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops: Digital Purchase
+6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),POI (Point of Interaction) Funding Transactions,18020010,Service: Financial: Check Cashing
+3813,HOTEL INDIGO,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3814,THE ROOSEVELT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3812,HYATT PLACE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 6555,Miscellaneous Personal Services ( rebate),Miscellaneous Personal Services ( rebate),10000000,Bank Fees
-7800,Government owned lottery,Government owned lottery,17001014,Recreation:Arts and Entertainment:Casinos and Gaming
-3826,Autograph,Autograph,19031000,Shops:Hobby and Collectibles
+7800,Government owned lottery,Government owned lottery,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
+3826,Autograph,Autograph,19031000,Shops: Hobby and Collectibles

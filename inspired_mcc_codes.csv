@@ -694,7 +694,7 @@
 3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
-3835,* MASTERS ECONOMY INNS,,22012003,Travel: Lodging: Hotels and Motels
+3835,Masters Economy Inns,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 4011,Railroads,Railroads,22015000,Travel: Rail
 4111,"Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",22014000,Travel: Public Transportation Services
 4112,Passenger Railways,Passenger Railways,22015000,Travel: Rail
@@ -862,6 +862,7 @@
 6381,"Insurance Premiums, (no longer valid for first presentment work)",,18030000,Service: Insurance
 6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,18030000,Service: Insurance
 6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,18050003,Service: Real Estate: Real Estate Agents
+6536,MoneySend Intracountry,MoneySend Intracountry,21010000,Transfer: Third Party
 7011,"Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",22012003,Travel: Lodging: Hotels and Motels
 7012,Timeshares,Timeshares,22012002,Travel: Lodging: Lodges and Vacation Rentals
 7032,Sporting and Recreational Camps,Sporting/Recreation Camps,17041000,Recreation: Sports and Recreation Camps
@@ -881,7 +882,7 @@
 7296,"Clothing Rental - Costumes, Formal Wear, Uniforms",Clothing Rental ,19016000,Shops: Costumes
 7297,Massage Parlors,Massage Parlors,18045006,Service: Personal Care: Massage Clinics and Therapists
 7298,Health and Beauty Shops,Health and Beauty Spas,18045003,Service: Personal Care: Spas
-7299,Miscellaneous Personal Services ( not elsewhere classifies),Miscellaneous General Services,18045000,Service: Personal Care
+7299,Miscellaneous Personal Services (not elsewhere classified),Miscellaneous General Services,18045000,Service: Personal Care
 7311,Advertising Services,Advertising Services,18001010,Service: Advertising and Marketing: Advertising Agencies and Media Buyers
 7321,Consumer Credit Reporting Agencies,Credit Reporting Agencies,18020008,Service: Financial: Credit Reporting
 7332,Blueprinting and Photocopying Services,,18008001,Service: Business Services: Printing and Publishing
@@ -941,7 +942,7 @@
 8041,Chiropractors,Chiropractors,14001014,Healthcare: Healthcare Services: Chiropractors
 8042,Optometrists and Ophthalmologists,"Optometrists, Ophthalmologist",14001005,Healthcare: Healthcare Services: Optometrists
 8043,"Opticians, Opticians Goods and Eyeglasses","Opticians, Eyeglasses",19029000,Shops: Glasses and Optometrist
-8044,"Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",,19029000,Shops: Glasses and Optometrist
+8044,"Opticians, Optical Goods, and Eyeglasses (no longer valid for first presentments)",,19029000,Shops: Glasses and Optometrist
 8049,Podiatrists and Chiropodists,"Chiropodists, Podiatrists",14001003,Healthcare: Healthcare Services: Podiatrists
 8050,Nursing and Personal Care Facilities,Nursing/Personal Care ,14001007,Healthcare: Healthcare Services: Nurses
 8062,Hospitals,Hospitals,14001010,"Healthcare: Healthcare Services: Hospitals, Clinics and Medical Centers"
@@ -976,9 +977,9 @@
 5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops: Digital Purchase
 5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops: Digital Purchase
 6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),POI (Point of Interaction) Funding Transactions,18020010,Service: Financial: Check Cashing
-3813,HOTEL INDIGO,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
-3814,THE ROOSEVELT HOTEL,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
-3812,HYATT PLACE,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3813,Hotel Indigo,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3814,The Roosvelt Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3812,Hyatt Place,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 6555,Miscellaneous Personal Services ( rebate),Miscellaneous Personal Services ( rebate),10000000,Bank Fees
 7800,Government owned lottery,Government owned lottery,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
 3826,Autograph,Autograph,19031000,Shops: Hobby and Collectibles

@@ -4866,8 +4866,8 @@
     },
     {
         "mcc": "3835",
-        "edited_description": "* MASTERS ECONOMY INNS",
-        "irs_description": "",
+        "edited_description": "Masters Economy Inns",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
         "linked_fi_category": "22012003",
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
@@ -6041,6 +6041,13 @@
         "plaid_description": "Service: Real Estate: Real Estate Agents"
     },
     {
+        "mcc": "6536",
+        "edited_description": "MoneySend Intracountry",
+        "irs_description": "MoneySend Intracountry",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
         "mcc": "7011",
         "edited_description": "Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)",
         "irs_description": "Hotels, Motels, and Resorts",
@@ -6175,7 +6182,7 @@
     },
     {
         "mcc": "7299",
-        "edited_description": "Miscellaneous Personal Services ( not elsewhere classifies)",
+        "edited_description": "Miscellaneous Personal Services (not elsewhere classified)",
         "irs_description": "Miscellaneous General Services",
         "linked_fi_category": "18045000",
         "plaid_description": "Service: Personal Care"
@@ -6595,7 +6602,7 @@
     },
     {
         "mcc": "8044",
-        "edited_description": "Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)",
+        "edited_description": "Opticians, Optical Goods, and Eyeglasses (no longer valid for first presentments)",
         "irs_description": "",
         "linked_fi_category": "19029000",
         "plaid_description": "Shops: Glasses and Optometrist"
@@ -6840,21 +6847,21 @@
     },
     {
         "mcc": "3813",
-        "edited_description": "HOTEL INDIGO",
+        "edited_description": "Hotel Indigo",
         "irs_description": "Hotels/Motels/Inns/Resorts",
         "linked_fi_category": "22012003",
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
     {
         "mcc": "3814",
-        "edited_description": "THE ROOSEVELT HOTEL",
+        "edited_description": "The Roosvelt Hotel",
         "irs_description": "Hotels/Motels/Inns/Resorts",
         "linked_fi_category": "22012003",
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
     {
         "mcc": "3812",
-        "edited_description": "HYATT PLACE",
+        "edited_description": "Hyatt Place",
         "irs_description": "Hotels/Motels/Inns/Resorts",
         "linked_fi_category": "22012003",
         "plaid_description": "Travel: Lodging: Hotels and Motels"

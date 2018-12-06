@@ -694,6 +694,10 @@
 3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3812,Hyatt Place,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3813,Hotel Indigo,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3814,The Roosvelt Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3826,Autograph Hotel,Autograph Hotel,22012003,Travel: Lodging: Hotels and Motels
 3835,Masters Economy Inns,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 4011,Railroads,Railroads,22015000,Travel: Rail
 4111,"Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",22014000,Travel: Public Transportation Services
@@ -804,8 +808,11 @@
 5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",Drinking Places,13001000,Food and Drink: Bar
 5814,Fast Food Restaurants,Fast Food Restaurants,13005032,Food and Drink: Restaurants: Fast Food
 5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops: Digital Purchase
+5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops: Digital Purchase
+5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops: Digital Purchase
 5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops: Digital Purchase
 5817,Digital Goods: Applications (Excludes Games),Digital Goods: Applications (Excludes Games),19019000,Shops: Digital Purchase
+5818,Digital Goods: Multi-Category,Digital Goods: Multi-Category,19019000,Shops: Digital Purchase
 5818,Digital Goods: Multi-Category,Digital Goods: Multi-Category,19019000,Shops: Digital Purchase
 5832,"Antique Shops - Sales, Repairs, and Restoration Services",,19002000,Shops: Antiques
 5912,Drug Stores and Pharmacies,Drug Stores and Pharmacies,19043000,Shops: Pharmacies
@@ -863,6 +870,8 @@
 6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,18030000,Service: Insurance
 6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,18050003,Service: Real Estate: Real Estate Agents
 6536,MoneySend Intracountry,MoneySend Intracountry,21010000,Transfer: Third Party
+6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),POI (Point of Interaction) Funding Transactions,18020010,Service: Financial: Check Cashing
+6555,Miscellaneous Personal Services ( rebate),Miscellaneous Personal Services ( rebate),10000000,Bank Fees
 7011,"Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",22012003,Travel: Lodging: Hotels and Motels
 7012,Timeshares,Timeshares,22012002,Travel: Lodging: Lodges and Vacation Rentals
 7032,Sporting and Recreational Camps,Sporting/Recreation Camps,17041000,Recreation: Sports and Recreation Camps
@@ -918,6 +927,7 @@
 7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",18053000,Service: Repair Services
 7692,Welding Repair,Welding Repair,18053000,Service: Repair Services
 7699,Repair Shops and Related Services -Miscellaneous,Miscellaneous Repair Shops,18053000,Service: Repair Services
+7800,Government owned lottery,Government owned lottery,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
 7829,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,18018001,Service: Entertainment: Media
 7832,Motion Picture Theaters,Motion Picture Theaters,17001009,Recreation: Arts and Entertainment: Movie Theatres
 7841,Video Tape Rental Stores,Video Tape Rental Stores,19036000,"Shops: Music, Video and DVD"
@@ -973,13 +983,3 @@
 9399,Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),12009000,Community: Government Departments and Agencies
 9402,Postal Services - Government Only,Postal Services - Government Only,12016000,Community: Post Offices
 9405,Intra - Government Transactions,U.S. Federal Government Agencies or Departments,12009000,Community: Government Departments and Agencies
-5818,Digital Goods: Multi-Category,Digital Goods: Multi-Category,19019000,Shops: Digital Purchase
-5816,Digital Goods: Games,Digital Goods: Games,19019000,Shops: Digital Purchase
-5815,"Digital Goods: Books, Movies, Music","Digital Goods: Books, Movies, Music",19019000,Shops: Digital Purchase
-6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),POI (Point of Interaction) Funding Transactions,18020010,Service: Financial: Check Cashing
-3813,Hotel Indigo,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
-3814,The Roosvelt Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
-3812,Hyatt Place,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
-6555,Miscellaneous Personal Services ( rebate),Miscellaneous Personal Services ( rebate),10000000,Bank Fees
-7800,Government owned lottery,Government owned lottery,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
-3826,Autograph,Autograph,19031000,Shops: Hobby and Collectibles

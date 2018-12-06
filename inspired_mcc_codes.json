@@ -4865,6 +4865,34 @@
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
     {
+        "mcc": "3812",
+        "edited_description": "Hyatt Place",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3813",
+        "edited_description": "Hotel Indigo",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3814",
+        "edited_description": "The Roosvelt Hotel",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3826",
+        "edited_description": "Autograph Hotel",
+        "irs_description": "Autograph Hotel",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
         "mcc": "3835",
         "edited_description": "Masters Economy Inns",
         "irs_description": "Hotels/Motels/Inns/Resorts",
@@ -5635,6 +5663,20 @@
         "plaid_description": "Shops: Digital Purchase"
     },
     {
+        "mcc": "5815",
+        "edited_description": "Digital Goods: Books, Movies, Music",
+        "irs_description": "Digital Goods: Books, Movies, Music",
+        "linked_fi_category": "19019000",
+        "plaid_description": "Shops: Digital Purchase"
+    },
+    {
+        "mcc": "5816",
+        "edited_description": "Digital Goods: Games",
+        "irs_description": "Digital Goods: Games",
+        "linked_fi_category": "19019000",
+        "plaid_description": "Shops: Digital Purchase"
+    },
+    {
         "mcc": "5816",
         "edited_description": "Digital Goods: Games",
         "irs_description": "Digital Goods: Games",
@@ -5645,6 +5687,13 @@
         "mcc": "5817",
         "edited_description": "Digital Goods: Applications (Excludes Games)",
         "irs_description": "Digital Goods: Applications (Excludes Games)",
+        "linked_fi_category": "19019000",
+        "plaid_description": "Shops: Digital Purchase"
+    },
+    {
+        "mcc": "5818",
+        "edited_description": "Digital Goods: Multi-Category",
+        "irs_description": "Digital Goods: Multi-Category",
         "linked_fi_category": "19019000",
         "plaid_description": "Shops: Digital Purchase"
     },
@@ -6048,6 +6097,20 @@
         "plaid_description": "Transfer: Third Party"
     },
     {
+        "mcc": "6540",
+        "edited_description": "POI (Point of Interaction) Funding Transactions (Excluding MoneySend)",
+        "irs_description": "POI (Point of Interaction) Funding Transactions",
+        "linked_fi_category": "18020010",
+        "plaid_description": "Service: Financial: Check Cashing"
+    },
+    {
+        "mcc": "6555",
+        "edited_description": "Miscellaneous Personal Services ( rebate)",
+        "irs_description": "Miscellaneous Personal Services ( rebate)",
+        "linked_fi_category": "10000000",
+        "plaid_description": "Bank Fees"
+    },
+    {
         "mcc": "7011",
         "edited_description": "Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)",
         "irs_description": "Hotels, Motels, and Resorts",
@@ -6433,6 +6496,13 @@
         "plaid_description": "Service: Repair Services"
     },
     {
+        "mcc": "7800",
+        "edited_description": "Government owned lottery",
+        "irs_description": "Government owned lottery",
+        "linked_fi_category": "17001014",
+        "plaid_description": "Recreation: Arts and Entertainment: Casinos and Gaming"
+    },
+    {
         "mcc": "7829",
         "edited_description": "Motion Pictures and Video Tape Production and Distribution",
         "irs_description": "Picture/Video Production",
@@ -6816,75 +6886,5 @@
         "irs_description": "U.S. Federal Government Agencies or Departments",
         "linked_fi_category": "12009000",
         "plaid_description": "Community: Government Departments and Agencies"
-    },
-    {
-        "mcc": "5818",
-        "edited_description": "Digital Goods: Multi-Category",
-        "irs_description": "Digital Goods: Multi-Category",
-        "linked_fi_category": "19019000",
-        "plaid_description": "Shops: Digital Purchase"
-    },
-    {
-        "mcc": "5816",
-        "edited_description": "Digital Goods: Games",
-        "irs_description": "Digital Goods: Games",
-        "linked_fi_category": "19019000",
-        "plaid_description": "Shops: Digital Purchase"
-    },
-    {
-        "mcc": "5815",
-        "edited_description": "Digital Goods: Books, Movies, Music",
-        "irs_description": "Digital Goods: Books, Movies, Music",
-        "linked_fi_category": "19019000",
-        "plaid_description": "Shops: Digital Purchase"
-    },
-    {
-        "mcc": "6540",
-        "edited_description": "POI (Point of Interaction) Funding Transactions (Excluding MoneySend)",
-        "irs_description": "POI (Point of Interaction) Funding Transactions",
-        "linked_fi_category": "18020010",
-        "plaid_description": "Service: Financial: Check Cashing"
-    },
-    {
-        "mcc": "3813",
-        "edited_description": "Hotel Indigo",
-        "irs_description": "Hotels/Motels/Inns/Resorts",
-        "linked_fi_category": "22012003",
-        "plaid_description": "Travel: Lodging: Hotels and Motels"
-    },
-    {
-        "mcc": "3814",
-        "edited_description": "The Roosvelt Hotel",
-        "irs_description": "Hotels/Motels/Inns/Resorts",
-        "linked_fi_category": "22012003",
-        "plaid_description": "Travel: Lodging: Hotels and Motels"
-    },
-    {
-        "mcc": "3812",
-        "edited_description": "Hyatt Place",
-        "irs_description": "Hotels/Motels/Inns/Resorts",
-        "linked_fi_category": "22012003",
-        "plaid_description": "Travel: Lodging: Hotels and Motels"
-    },
-    {
-        "mcc": "6555",
-        "edited_description": "Miscellaneous Personal Services ( rebate)",
-        "irs_description": "Miscellaneous Personal Services ( rebate)",
-        "linked_fi_category": "10000000",
-        "plaid_description": "Bank Fees"
-    },
-    {
-        "mcc": "7800",
-        "edited_description": "Government owned lottery",
-        "irs_description": "Government owned lottery",
-        "linked_fi_category": "17001014",
-        "plaid_description": "Recreation: Arts and Entertainment: Casinos and Gaming"
-    },
-    {
-        "mcc": "3826",
-        "edited_description": "Autograph",
-        "irs_description": "Autograph",
-        "linked_fi_category": "19031000",
-        "plaid_description": "Shops: Hobby and Collectibles"
     }
 ]

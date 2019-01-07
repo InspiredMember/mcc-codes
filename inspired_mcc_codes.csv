@@ -863,6 +863,7 @@
 6010,Financial Institutions - Manual Cash Disbursements,Manual Cash Disburse,11000000,Cash Advance
 6011,Financial Institutions - Manual Cash Disbursements,Automated Cash Disburse,11000000,Cash Advance
 6012,Financial Institutions - Merchandise and Services,Financial Institutions,18020012,Service: Financial: Banking and Finance
+6050,Quasi Cash–Member Financial Institution,Quasi Cash–Member Financial Institution,18020012,Service: Financial: Banking and Finance
 6051,"Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques","Non-FI, Money Orders",18020010,Service: Financial: Check Cashing
 6211,Security Brokers/Dealers,Security Brokers/Dealers,18020003,Service: Financial: Stock Brokers
 6300,"Insurance Sales, Underwriting, and Premiums","Insurance Underwriting, Premiums",18030000,Service: Insurance

@@ -6048,6 +6048,13 @@
         "plaid_description": "Service: Financial: Banking and Finance"
     },
     {
+        "mcc": "6050",
+        "edited_description": "Quasi Cash\u2013Member Financial Institution",
+        "irs_description": "Quasi Cash\u2013Member Financial Institution",
+        "linked_fi_category": "18020012",
+        "plaid_description": "Service: Financial: Banking and Finance"
+    },
+    {
         "mcc": "6051",
         "edited_description": "Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques",
         "irs_description": "Non-FI, Money Orders",

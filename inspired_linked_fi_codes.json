@@ -1,5 +1,10 @@
 [
     {
+        "category_id": "00000000",
+        "group": "special",
+        "_hierarchy": "Default"
+    },
+    {
         "category_id": "10000000",
         "group": "special",
         "_hierarchy": "Bank Fees"

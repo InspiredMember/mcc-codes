@@ -1,10 +1,10 @@
 [
     {
         "mcc": "0000",
-        "edited_description": "DEFAULT",
-        "irs_description": "DEFAULT",
+        "edited_description": "Default",
+        "irs_description": "Default",
         "linked_fi_category": "00000000",
-        "plaid_description": "DEFAULT"
+        "plaid_description": "Default"
     },
     {
         "mcc": "0742",

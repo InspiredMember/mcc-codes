@@ -1,4 +1,5 @@
 ﻿category_id,group,_hierarchy
+00000000,special,Default
 10000000,special,Bank Fees
 10001000,special,Bank Fees: Overdraft
 10002000,special,Bank Fees: ATM

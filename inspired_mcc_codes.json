@@ -1,5 +1,12 @@
 [
     {
+        "mcc": "0000",
+        "edited_description": "DEFAULT",
+        "irs_description": "DEFAULT",
+        "linked_fi_category": "00000000",
+        "plaid_description": "DEFAULT"
+    },
+    {
         "mcc": "0742",
         "edited_description": "Veterinary Services",
         "irs_description": "Veterinary Services",

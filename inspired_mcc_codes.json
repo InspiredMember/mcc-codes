@@ -4872,6 +4872,118 @@
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
     {
+        "mcc": "3791",
+        "edited_description": "Staybridge Suites",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3792",
+        "edited_description": "Claridge Casino Hotel",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3793",
+        "edited_description": "The Flamingo Hotels",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3794",
+        "edited_description": "Grand Casino Hotels",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3795",
+        "edited_description": "Paris Las Vegas Hotel",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3796",
+        "edited_description": "Peppermill Hotel Casino",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3797",
+        "edited_description": "Atlantic City Hilton",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3798",
+        "edited_description": "Embassy Vacation Resort",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3799",
+        "edited_description": "Hale Koa Hotel",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3800",
+        "edited_description": "Homestead",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3801",
+        "edited_description": "Wilderness Hotel and Golf Resort",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3802",
+        "edited_description": "The Palace Hotel",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3807",
+        "edited_description": "Element",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3808",
+        "edited_description": "LXR\u00A0",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3810",
+        "edited_description": "La Costa Resort",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3811",
+        "edited_description": "Premier Travel Inn",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
         "mcc": "3812",
         "edited_description": "Hyatt Place",
         "irs_description": "Hotels/Motels/Inns/Resorts",
@@ -4893,9 +5005,121 @@
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
     {
+        "mcc": "3815",
+        "edited_description": "Holiday Inn Nickelodeon",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3816",
+        "edited_description": "Home2 Suites by Hilton",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3817",
+        "edited_description": "Affinia",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3818",
+        "edited_description": "Mainstay Suites",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3819",
+        "edited_description": "Oxford Suites",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3820",
+        "edited_description": "Jumeirah Essex House",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3821",
+        "edited_description": "Caribe Royale",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3822",
+        "edited_description": "Crossland",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3823",
+        "edited_description": "Grand Sierra Resort",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3824",
+        "edited_description": "Aria",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3825",
+        "edited_description": "Vdara",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
         "mcc": "3826",
         "edited_description": "Autograph Hotel",
         "irs_description": "Autograph Hotel",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3827",
+        "edited_description": "Galt House",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3828",
+        "edited_description": "Cosmopolitan of Las Vegas",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3829",
+        "edited_description": "Country Inn by Carlson",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3830",
+        "edited_description": "Park Plaza Hotel",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
+        "linked_fi_category": "22012003",
+        "plaid_description": "Travel: Lodging: Hotels and Motels"
+    },
+    {
+        "mcc": "3831",
+        "edited_description": "Waldorf",
+        "irs_description": "Hotels/Motels/Inns/Resorts",
         "linked_fi_category": "22012003",
         "plaid_description": "Travel: Lodging: Hotels and Motels"
     },
@@ -5019,6 +5243,13 @@
         "plaid_description": "Service: Travel Agents and Tour Operators"
     },
     {
+        "mcc": "4761",
+        "edited_description": "Telemarketing of Travel Related Services and Vitamins",
+        "irs_description": "Telemarketing of Travel Related Services and Vitamins",
+        "linked_fi_category": "18067000",
+        "plaid_description": "Service: Travel Agents and Tour Operators"
+    },
+    {
         "mcc": "4784",
         "edited_description": "Toll and Bridge Fees",
         "irs_description": "Tolls/Bridge Fees",
@@ -5036,6 +5267,13 @@
         "mcc": "4812",
         "edited_description": "Telecommunications Equipment including telephone sales",
         "irs_description": "Telecommunication Equipment and Telephone Sales",
+        "linked_fi_category": "18063000",
+        "plaid_description": "Service: Telecommunication Services"
+    },
+    {
+        "mcc": "4813",
+        "edited_description": "Special Telecom Merchant",
+        "irs_description": "Special Telecom Merchant",
         "linked_fi_category": "18063000",
         "plaid_description": "Service: Telecommunication Services"
     },
@@ -5416,6 +5654,13 @@
         "irs_description": "Automotive Tire Stores",
         "linked_fi_category": "18006007",
         "plaid_description": "Service: Automotive: Auto Tires"
+    },
+    {
+        "mcc": "5532",
+        "edited_description": "Auto and Home Supply Stores",
+        "irs_description": "Auto and Home Supply Stores",
+        "linked_fi_category": "19005006",
+        "plaid_description": "Shops: Automotive: Car Parts and Accessories"
     },
     {
         "mcc": "5533",
@@ -6104,9 +6349,72 @@
         "plaid_description": "Service: Real Estate: Real Estate Agents"
     },
     {
+        "mcc": "6529",
+        "edited_description": "Remote Stored Value Load - Member Financial Institution",
+        "irs_description": "Remote Stored Value Load - Member Financial Institution",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
+        "mcc": "6530",
+        "edited_description": "Remote Stored Value Load - Merchant",
+        "irs_description": "Remote Stored Value Load - Merchant",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
+        "mcc": "6531",
+        "edited_description": "Payment Service Provider",
+        "irs_description": "Payment Service Provider",
+        "linked_fi_category": "16000000",
+        "plaid_description": "Payment"
+    },
+    {
+        "mcc": "6532",
+        "edited_description": "Payment Transaction - Member",
+        "irs_description": "Payment Transaction - Member",
+        "linked_fi_category": "16000000",
+        "plaid_description": "Payment"
+    },
+    {
+        "mcc": "6533",
+        "edited_description": "Payment Transaction - Merchant",
+        "irs_description": "Payment Transaction - Merchant",
+        "linked_fi_category": "16000000",
+        "plaid_description": "Payment"
+    },
+    {
+        "mcc": "6534",
+        "edited_description": "Money Transfer - Member Financial Institution",
+        "irs_description": "Money Transfer - Member Financial Institution",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
+        "mcc": "6535",
+        "edited_description": "Value Purchase - Member Financial Institution",
+        "irs_description": "Value Purchase - Member Financial Institution",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
         "mcc": "6536",
         "edited_description": "MoneySend Intracountry",
         "irs_description": "MoneySend Intracountry",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
+        "mcc": "6537",
+        "edited_description": "Value Purchase - Member Financial Institution",
+        "irs_description": "Value Purchase - Member Financial Institution",
+        "linked_fi_category": "21010000",
+        "plaid_description": "Transfer: Third Party"
+    },
+    {
+        "mcc": "6538",
+        "edited_description": "Value Purchase - Member Financial Institution",
+        "irs_description": "Value Purchase - Member Financial Institution",
         "linked_fi_category": "21010000",
         "plaid_description": "Transfer: Third Party"
     },
@@ -6419,6 +6727,13 @@
         "plaid_description": "Travel: Parking"
     },
     {
+        "mcc": "7524",
+        "edited_description": "Express Payment Service Mechants - Parking Lots and Garages",
+        "irs_description": "Express Payment Service Mechants - Parking Lots and Garages",
+        "linked_fi_category": "22013000",
+        "plaid_description": "Travel: Parking"
+    },
+    {
         "mcc": "7531",
         "edited_description": "Automotive Body Repair Shops",
         "irs_description": "Auto Body Repair Shops",
@@ -6510,9 +6825,30 @@
         "plaid_description": "Service: Repair Services"
     },
     {
+        "mcc": "7778",
+        "edited_description": "Citishare Cash Advance",
+        "irs_description": "Citishare Cash Advance",
+        "linked_fi_category": "10008000",
+        "plaid_description": "Bank Fees: Cash Advance"
+    },
+    {
         "mcc": "7800",
         "edited_description": "Government owned lottery",
         "irs_description": "Government owned lottery",
+        "linked_fi_category": "17001014",
+        "plaid_description": "Recreation: Arts and Entertainment: Casinos and Gaming"
+    },
+    {
+        "mcc": "7801",
+        "edited_description": "Government-Licensed Casinos (Online Gambling)  ",
+        "irs_description": "Government-Licensed Casinos (Online Gambling)  ",
+        "linked_fi_category": "17001014",
+        "plaid_description": "Recreation: Arts and Entertainment: Casinos and Gaming"
+    },
+    {
+        "mcc": "7802",
+        "edited_description": "Government-Licensed Horse/Dog Racing  ",
+        "irs_description": "Government-Licensed Horse/Dog Racing  ",
         "linked_fi_category": "17001014",
         "plaid_description": "Recreation: Arts and Entertainment: Casinos and Gaming"
     },
@@ -6888,6 +7224,13 @@
         "plaid_description": "Community: Government Departments and Agencies"
     },
     {
+        "mcc": "9401",
+        "edited_description": "i-Purchasing",
+        "irs_description": "i-Purchasing",
+        "linked_fi_category": "19019000",
+        "plaid_description": "Shops: Digital Purchase"
+    },
+    {
         "mcc": "9402",
         "edited_description": "Postal Services - Government Only",
         "irs_description": "Postal Services - Government Only",
@@ -6900,5 +7243,61 @@
         "irs_description": "U.S. Federal Government Agencies or Departments",
         "linked_fi_category": "12009000",
         "plaid_description": "Community: Government Departments and Agencies"
+    },
+    {
+        "mcc": "9700",
+        "edited_description": "Automated Referral Service",
+        "irs_description": "Automated Referral Service",
+        "linked_fi_category": "18020000",
+        "plaid_description": "Service: Financial"
+    },
+    {
+        "mcc": "9701",
+        "edited_description": "Visa Credential Server",
+        "irs_description": "Visa Credential Server",
+        "linked_fi_category": "18020000",
+        "plaid_description": "Service: Financial"
+    },
+    {
+        "mcc": "9702",
+        "edited_description": "GCAS Emergency Services",
+        "irs_description": "GCAS Emergency Services",
+        "linked_fi_category": "14001011",
+        "plaid_description": "Healthcare: Healthcare Services: Emergency Services"
+    },
+    {
+        "mcc": "9751",
+        "edited_description": "U.K. Supermarkets, Electronic Hot File",
+        "irs_description": "U.K. Supermarkets, Electronic Hot File",
+        "linked_fi_category": "19047000",
+        "plaid_description": "Shops: Supermarkets and Groceries"
+    },
+    {
+        "mcc": "9752",
+        "edited_description": "U.K. Petrol Stations, Electronic Hot File",
+        "irs_description": "U.K. Petrol Stations, Electronic Hot File",
+        "linked_fi_category": "22009000",
+        "plaid_description": "Travel: Gas Stations"
+    },
+    {
+        "mcc": "9753",
+        "edited_description": "Consumer Electronics/Furniture Store",
+        "irs_description": "Consumer Electronics/Furniture Store",
+        "linked_fi_category": "19013000",
+        "plaid_description": "Shops: Computers and Electronics"
+    },
+    {
+        "mcc": "9754",
+        "edited_description": "Quasi Cash - Gambling-Horse Racing, Dog Racing, State Lotteries",
+        "irs_description": "Quasi Cash - Gambling-Horse Racing, Dog Racing, State Lotteries",
+        "linked_fi_category": "17001014",
+        "plaid_description": "Recreation: Arts and Entertainment: Casinos and Gaming"
+    },
+    {
+        "mcc": "9950",
+        "edited_description": "Intra-Company Purchases",
+        "irs_description": "Intra-Company Purchases",
+        "linked_fi_category": "21001000",
+        "plaid_description": "Transfer: Internal Account Transfer"
     }
 ]

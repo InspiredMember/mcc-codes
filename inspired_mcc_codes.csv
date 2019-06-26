@@ -695,10 +695,42 @@
 3788,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3789,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3790,Hotels/Motels/Inns/Resorts,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3791,Staybridge Suites,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3792,Claridge Casino Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3793,The Flamingo Hotels,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3794,Grand Casino Hotels,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3795,Paris Las Vegas Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3796,Peppermill Hotel Casino,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3797,Atlantic City Hilton,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3798,Embassy Vacation Resort,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3799,Hale Koa Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3800,Homestead,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3801,Wilderness Hotel and Golf Resort,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3802,The Palace Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3807,Element,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3808,LXR ,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3810,La Costa Resort,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3811,Premier Travel Inn,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3812,Hyatt Place,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3813,Hotel Indigo,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3814,The Roosvelt Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3815,Holiday Inn Nickelodeon,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3816,Home2 Suites by Hilton,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3817,Affinia,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3818,Mainstay Suites,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3819,Oxford Suites,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3820,Jumeirah Essex House,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3821,Caribe Royale,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3822,Crossland,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3823,Grand Sierra Resort,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3824,Aria,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3825,Vdara,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3826,Autograph Hotel,Autograph Hotel,22012003,Travel: Lodging: Hotels and Motels
+3827,Galt House,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3828,Cosmopolitan of Las Vegas,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3829,Country Inn by Carlson,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3830,Park Plaza Hotel,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
+3831,Waldorf,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 3835,Masters Economy Inns,Hotels/Motels/Inns/Resorts,22012003,Travel: Lodging: Hotels and Motels
 4011,Railroads,Railroads,22015000,Travel: Rail
 4111,"Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation.","Commuter Transport, Ferries",22014000,Travel: Public Transportation Services
@@ -716,9 +748,11 @@
 4582,"Airports, Airport Terminals, Flying Fields","Airports, Flying Fields",22002000,Travel: Airports
 4722,Travel Agencies and Tour Operations,"Travel Agencies, Tour Operators",18067000,Service: Travel Agents and Tour Operators
 4723,Package Tour Operators (For use in Germany only),TUI Travel - Germany,18067000,Service: Travel Agents and Tour Operators
+4761,Telemarketing of Travel Related Services and Vitamins,Telemarketing of Travel Related Services and Vitamins,18067000,Service: Travel Agents and Tour Operators
 4784,Toll and Bridge Fees,Tolls/Bridge Fees,22017000,Travel: Tolls and Fees
 4789,"Transportation Services, Not elsewhere classified)",Transportation Services (Not Elsewhere Classified),22014000,Travel: Public Transportation Services
 4812,Telecommunications Equipment including telephone sales,Telecommunication Equipment and Telephone Sales,18063000,Service: Telecommunication Services
+4813,Special Telecom Merchant,Special Telecom Merchant,18063000,Service: Telecommunication Services
 4814,"Fax services, Telecommunication Services",Telecommunication Services,18063000,Service: Telecommunication Services
 4815,VisaPhone,,18063000,Service: Telecommunication Services
 4816,Computer Network Services,Computer Network Services,18012000,Service: Computers
@@ -773,6 +807,7 @@
 5521,Automobile and Truck Dealers (Used Only),"Car and Truck Dealers (Used Only) Sales, Service, Repairs Parts and Leasing ",19005001,Shops: Automotive: Used Car Dealers
 5531,Automobile Supply Stores,Auto and Home Supply Stores,19005006,Shops: Automotive: Car Parts and Accessories
 5532,Automotive Tire Stores,Automotive Tire Stores,18006007,Service: Automotive: Auto Tires
+5532,Auto and Home Supply Stores,Auto and Home Supply Stores,19005006,Shops: Automotive: Car Parts and Accessories
 5533,"Automotive Parts, Accessories Stores",Automotive Parts and Accessories Stores,19005006,Shops: Automotive: Car Parts and Accessories
 5541,Service Stations ( with or without ancillary services),Service Stations ,22009000,Travel: Gas Stations
 5542,Automated Fuel Dispensers,Automated Fuel Dispensers,22009000,Travel: Gas Stations
@@ -871,7 +906,16 @@
 6381,"Insurance Premiums, (no longer valid for first presentment work)",,18030000,Service: Insurance
 6399,"Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)",Insurance - Default,18030000,Service: Insurance
 6513,Real Estate Agents and Managers - Rentals,Real Estate Agents and Managers - Rentals,18050003,Service: Real Estate: Real Estate Agents
+6529,Remote Stored Value Load - Member Financial Institution,Remote Stored Value Load - Member Financial Institution,21010000,Transfer: Third Party
+6530,Remote Stored Value Load - Merchant,Remote Stored Value Load - Merchant,21010000,Transfer: Third Party
+6531,Payment Service Provider,Payment Service Provider,16000000,Payment
+6532,Payment Transaction - Member,Payment Transaction - Member,16000000,Payment
+6533,Payment Transaction - Merchant,Payment Transaction - Merchant,16000000,Payment
+6534,Money Transfer - Member Financial Institution,Money Transfer - Member Financial Institution,21010000,Transfer: Third Party
+6535,Value Purchase - Member Financial Institution,Value Purchase - Member Financial Institution,21010000,Transfer: Third Party
 6536,MoneySend Intracountry,MoneySend Intracountry,21010000,Transfer: Third Party
+6537,Value Purchase - Member Financial Institution,Value Purchase - Member Financial Institution,21010000,Transfer: Third Party
+6538,Value Purchase - Member Financial Institution,Value Purchase - Member Financial Institution,21010000,Transfer: Third Party
 6540,POI (Point of Interaction) Funding Transactions (Excluding MoneySend),POI (Point of Interaction) Funding Transactions,18020010,Service: Financial: Check Cashing
 6555,Miscellaneous Personal Services ( rebate),Miscellaneous Personal Services ( rebate),10000000,Bank Fees
 7011,"Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)","Hotels, Motels, and Resorts",22012003,Travel: Lodging: Hotels and Motels
@@ -916,6 +960,7 @@
 7513,Truck and Utility Trailer Rentals,Truck/Utility Trailer Rentals,22005000,Travel: Car and Truck Rentals
 7519,Motor Home and Recreational Vehicle Rentals,Recreational Vehicle Rentals,19005003,Shops: Automotive: RVs and Motor Homes
 7523,Automobile Parking Lots and Garages,"Parking Lots, Garages",22013000,Travel: Parking
+7524,Express Payment Service Mechants - Parking Lots and Garages,Express Payment Service Mechants - Parking Lots and Garages,22013000,Travel: Parking
 7531,Automotive Body Repair Shops,Auto Body Repair Shops,18006003,Service: Automotive: Maintenance and Repair
 7534,Tire Re-treading and Repair Shops,Tire Retreading and Repair,18006003,Service: Automotive: Maintenance and Repair
 7535,Paint Shops - Automotive,Auto Paint Shops,18006003,Service: Automotive: Maintenance and Repair
@@ -929,7 +974,10 @@
 7641,"Furniture, Furniture Repair, and Furniture Refinishing","Furniture Repair, Refinishing",18053000,Service: Repair Services
 7692,Welding Repair,Welding Repair,18053000,Service: Repair Services
 7699,Repair Shops and Related Services -Miscellaneous,Miscellaneous Repair Shops,18053000,Service: Repair Services
+7778,Citishare Cash Advance,Citishare Cash Advance,10008000,Bank Fees: Cash Advance
 7800,Government owned lottery,Government owned lottery,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
+7801,Government-Licensed Casinos (Online Gambling)  ,Government-Licensed Casinos (Online Gambling)  ,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
+7802,Government-Licensed Horse/Dog Racing  ,Government-Licensed Horse/Dog Racing  ,17001014,Recreation: Arts and Entertainment: Casinos and Gaming
 7829,Motion Pictures and Video Tape Production and Distribution,Picture/Video Production,18018001,Service: Entertainment: Media
 7832,Motion Picture Theaters,Motion Picture Theaters,17001009,Recreation: Arts and Entertainment: Movie Theatres
 7841,Video Tape Rental Stores,Video Tape Rental Stores,19036000,"Shops: Music, Video and DVD"
@@ -983,5 +1031,14 @@
 9223,Bail and Bond Payments,"Bail and Bond Payments (payment to the surety for the bond, not the actual bond paid to the government agency) ",12004000,Community: Courts
 9311,Tax Payments,Tax Payments - Government Agencies,20000000,Tax
 9399,Government Services ( Not Elsewhere Classified),Government Services (Not Elsewhere Classified),12009000,Community: Government Departments and Agencies
+9401,i-Purchasing,i-Purchasing,19019000,Shops: Digital Purchase
 9402,Postal Services - Government Only,Postal Services - Government Only,12016000,Community: Post Offices
 9405,Intra - Government Transactions,U.S. Federal Government Agencies or Departments,12009000,Community: Government Departments and Agencies
+9700,Automated Referral Service,Automated Referral Service,18020000,Service: Financial
+9701,Visa Credential Server,Visa Credential Server,18020000,Service: Financial
+9702,GCAS Emergency Services,GCAS Emergency Services,14001011,Healthcare: Healthcare Services: Emergency Services
+9751,"U.K. Supermarkets, Electronic Hot File","U.K. Supermarkets, Electronic Hot File",19047000,Shops: Supermarkets and Groceries
+9752,"U.K. Petrol Stations, Electronic Hot File","U.K. Petrol Stations, Electronic Hot File",22009000,Travel: Gas Stations
+9753,Consumer Electronics/Furniture Store,Consumer Electronics/Furniture Store,19013000,Shops: Computers and Electronics
+9754,"Quasi Cash - Gambling-Horse Racing, Dog Racing, State Lotteries","Quasi Cash - Gambling-Horse Racing, Dog Racing, State Lotteries",17001014,Recreation: Arts and Entertainment: Casinos and Gaming
+9950,Intra-Company Purchases,Intra-Company Purchases,21001000,Transfer: Internal Account Transfer
